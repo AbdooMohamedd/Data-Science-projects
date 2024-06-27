@@ -1,8 +1,3 @@
-# Data-Science-projects
-Great! Here is the updated README file with your GitHub username included:
-
----
-
 # Data Science Projects
 
 Welcome to my Data Science projects repository! This repository contains a collection of small to medium-sized data science projects that I have worked on. Each project is organized into its own folder and contains all necessary files, including data, code, and documentation.
@@ -86,10 +81,10 @@ To get started with any of the projects, follow these steps:
 
 ## Contributing
 
-I welcome contributions to this repository. If you have a project that you would like to add or improvements to suggest, please fork the repository and create a pull request. Make sure to follow the guidelines provided in the `CONTRIBUTING.md` file.
+I welcome contributions to this repository. If you have a project that you would like to add or improvements to suggest, please fork the repository and create a pull request. 
 
 ## Contact
 
-If you have any questions or suggestions, feel free to contact me at [your-email@example.com](mailto:your-email@example.com).
+If you have any questions or suggestions, feel free to contact me at [your-email@example.com](abdelrahman.mohamed1081@gmail.com).
 
 ---
