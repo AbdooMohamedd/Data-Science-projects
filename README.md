@@ -1,3 +1,7 @@
+Here is the updated README file based on your specifications:
+
+---
+
 # Data Science Projects
 
 Welcome to my Data Science projects repository! This repository contains a collection of small to medium-sized data science projects that I have worked on. Each project is organized into its own folder and contains all necessary files, including data, code, and documentation.
@@ -21,9 +25,6 @@ This repository is a compilation of various data science projects that I have cr
 ### Small Projects
 
 Small projects are quick and concise, often focusing on a single concept or technique. They are great for beginners or for anyone looking to understand the basics of data science.
-
-
-### Small Projects
 
 1. **1- Exploring NYC Public School Test Result Scores**
    - Description: This project analyzes test result scores from NYC public schools to identify trends and insights that can help improve educational outcomes.
@@ -63,12 +64,12 @@ To get started with any of the projects, follow these steps:
 2. **Navigate to the desired project folder:**
 
    ```bash
-   cd small-projects/project-name-1
+   cd project-name-1
    ```
 
 3. **Install the required dependencies:**
 
-   Each project has its own `requirements.txt` file. Install the dependencies using:
+   Each project specifies its dependencies in the documentation. Install the dependencies using pip:
 
    ```bash
    pip install -r requirements.txt
@@ -80,10 +81,8 @@ To get started with any of the projects, follow these steps:
 
 ## Contributing
 
-I welcome contributions to this repository. If you have a project that you would like to add or improvements to suggest, please fork the repository and create a pull request. 
+I welcome contributions to this repository. If you have a project that you would like to add or improvements to suggest, please fork the repository and create a pull request.
 
 ## Contact
 
-If you have any questions or suggestions, feel free to contact me at [abdelrahman.mohamed1081@gmail.com](abdelrahman.mohamed1081@gmail.com).
-
----
+If you have any questions or suggestions, feel free to contact me at [abdelrahman.mohamed1081@gmail.com](mailto:abdelrahman.mohamed1081@gmail.com).
