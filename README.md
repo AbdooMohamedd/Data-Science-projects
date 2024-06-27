@@ -1,6 +1,3 @@
-Here is the updated README file based on your specifications:
-
----
 
 # Data Science Projects
 
