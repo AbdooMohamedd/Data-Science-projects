@@ -28,10 +28,13 @@ This repository is a compilation of various data science projects that I have cr
 
 Small projects are quick and concise, often focusing on a single concept or technique. They are great for beginners or for anyone looking to understand the basics of data science.
 
-1. **Project Name 1**
-   - Description: Brief description of the project.
-   - Technologies: List of technologies and tools used.
-   - [Link to Project](./small-projects/project-name-1)
+
+### Small Projects
+
+1. **1- Exploring NYC Public School Test Result Scores**
+   - Description: This project analyzes test result scores from NYC public schools to identify trends and insights that can help improve educational outcomes.
+   - Technologies: Python, Pandas, Matplotlib, Seaborn
+   - [Link to Project](https://github.com/AbdooMohamedd/Data-Science-projects/tree/main/1-%20Exploring%20NYC%20Public%20School%20Test%20Result%20Scores)
 
 2. **Project Name 2**
    - Description: Brief description of the project.
