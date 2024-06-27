@@ -10,7 +10,6 @@ Welcome to my Data Science projects repository! This repository contains a colle
   - [Medium Projects](#medium-projects)
 - [Getting Started](#getting-started)
 - [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ## Introduction
