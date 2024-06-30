@@ -31,7 +31,7 @@ Small projects are quick and concise, often focusing on a single concept or tech
 2. **2- Netflix Data Analysis**
    - Description: This project analyzes Netflix data to determine if movie lengths are getting shorter and to identify the most frequent movie duration in the 1990s as well as the number of short action movies released in the 1990s.
    - Technologies: Python, Pandas, Matplotlib, Seaborn
-   - [Link to Project](https://github.com/AbdooMohamedd/Data-Science-projects/tree/main/2-%20Netflix%20Data%20Analysis)
+   - [Link to Project]([https://github.com/AbdooMohamedd/Data-Science-projects/tree/main/2-%20Netflix%20Data%20Analysis](https://github.com/AbdooMohamedd/Data-Science-projects/tree/main/2-%20Investigating%20Netflix%20Movies))
 
 
 ### Medium Projects
