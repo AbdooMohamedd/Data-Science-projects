@@ -43,5 +43,4 @@ To get started with this project, follow these steps:
 
 ## Contact
 
-If you have any questions or suggestions, feel free to contact me at [abdelrahman.mohamed1081@gmail.com](mailto:abdelrahman.mohamed1081@gmail.com).
-```
+If you have any questions or suggestions, feel free to contact me at [abdelrahman.mohamed1081@gmail.com].
