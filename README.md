@@ -28,10 +28,11 @@ Small projects are quick and concise, often focusing on a single concept or tech
    - Technologies: Python, Pandas, Matplotlib, Seaborn
    - [Link to Project](https://github.com/AbdooMohamedd/Data-Science-projects/tree/main/1-%20Exploring%20NYC%20Public%20School%20Test%20Result%20Scores)
 
-2. **Project Name 2**
-   - Description: Brief description of the project.
-   - Technologies: List of technologies and tools used.
-   - [Link to Project](./small-projects/project-name-2)
+2. **2- Netflix Data Analysis**
+   - Description: This project analyzes Netflix data to determine if movie lengths are getting shorter and to identify the most frequent movie duration in the 1990s as well as the number of short action movies released in the 1990s.
+   - Technologies: Python, Pandas, Matplotlib, Seaborn
+   - [Link to Project](https://github.com/AbdooMohamedd/Data-Science-projects/tree/main/2-%20Netflix%20Data%20Analysis)
+
 
 ### Medium Projects
 
