@@ -32,6 +32,11 @@ Small projects are quick and concise, often focusing on a single concept or tech
    - Description: This project analyzes Netflix data to determine if movie lengths are getting shorter and to identify the most frequent movie duration in the 1990s as well as the number of short action movies released in the 1990s.
    - Technologies: Python, Pandas, Matplotlib, Seaborn
    - [Link to Project](https://github.com/AbdooMohamedd/Data-Science-projects/tree/main/2-%20Investigating%20Netflix%20Movies)
+  
+3. **3- Visualizing the History of Nobel Prize Winners**
+   - Description: This project analyzes Nobel Prize data to answer several key questions about the demographics and trends of laureates.
+   - Technologies: Python, Pandas, Matplotlib, Seaborn
+   - [Link to Project](https://github.com/AbdooMohamedd/Data-Science-projects/tree/main/3-%20Visualizing%20the%20History%20of%20Nobel%20Prize%20Winners)
 
 
 
