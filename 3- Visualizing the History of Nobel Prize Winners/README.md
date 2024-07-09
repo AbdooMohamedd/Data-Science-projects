@@ -1,33 +1,50 @@
 # Nobel Prize Data Analysis
 
-This Jupyter Notebook analyzes Nobel Prize data, focusing on various aspects such as the most commonly awarded gender, birth country, and more. Below are the detailed explanations for each question addressed in the notebook.
+## Overview
 
-## Questions Addressed
+This project analyzes Nobel Prize data to answer several key questions about the demographics and trends of laureates.
 
-### 1. Most Commonly Awarded Gender
-This analysis calculates the most commonly awarded gender by counting the occurrences of each value in the "sex" column and finding the one with the highest count.
+## Dataset
 
-### 2. Most Commonly Awarded Birth Country
-This analysis determines the most commonly awarded birth country by counting the occurrences of each value in the "birth_country" column and identifying the most frequent one.
+- File: `nobel_prize_data.csv`
+- Contents: Information about Nobel Prize winners, including year, category, gender, birth country, organization, and more.
 
-### 3. Decade with Highest Number of Laureates from the USA
-This analysis filters the DataFrame to include only laureates born in the USA. It then creates a new column representing the decade and finds the decade with the highest number of laureates from the USA.
+## Analysis
 
-### 4. Decade and Category with the Highest Proportion of Female Laureates
-This analysis calculates the proportion of female laureates per decade and category. It then identifies the decade and category with the highest proportion of female laureates and stores this information in a dictionary.
+1. **Most Commonly Awarded Gender:**
+   - Identifies the most commonly awarded gender by counting occurrences in the "sex" column.
 
-### 5. First Female Laureate and Her Category
-This analysis filters the DataFrame to include only female laureates, sorts them by the year they were awarded, and extracts the name and category of the first female laureate.
+2. **Most Commonly Awarded Birth Country:**
+   - Determines the most commonly awarded birth country by counting occurrences in the "birth_country" column.
+
+3. **Decade with Highest Number of Laureates from the USA:**
+   - Filters data to include laureates from the USA.
+   - Identifies the decade with the highest number of USA laureates.
+
+4. **Decade and Category with the Highest Proportion of Female Laureates:**
+   - Calculates the proportion of female laureates per decade and category.
+   - Identifies the decade and category with the highest proportion of female laureates.
+
+5. **First Female Laureate and Her Category:**
+   - Identifies the first female laureate and her category by filtering and sorting the data.
 
 ## Visualizations
 
-### 1. Bar Plot of Organization Counts
-This bar plot visualizes the counts of organizations that have appeared at least twice in the dataset, showing the frequency of awards associated with different organizations.
+1. **Bar Plot of Organization Counts:**
+   - Visualizes the counts of organizations that have appeared at least twice in the dataset.
 
-### 2. Count Plot of Duplicated Individuals
-This count plot visualizes the duplicated individuals (laureates who have won more than once), showing the counts of each duplicated individual and helping to identify the most frequently awarded laureates.
+2. **Count Plot of Duplicated Individuals:**
+   - Visualizes the laureates who have won more than once, showing the counts of each duplicated individual.
+
+## Getting Started
+
+1. Clone the repository.
+2. Install dependencies:
+   ```bash
+   pip install pandas matplotlib seaborn
+   ```
+3. Run the Jupyter notebook to view the analysis and visualizations.
 
 ## Conclusion
 
-This notebook provides a comprehensive analysis of Nobel Prize data, answering key questions about the most commonly awarded gender, birth country, and more. The visualizations further aid in understanding the distribution and frequency of awards across different categories and organizations.
-
+This analysis provides insights into the demographics and trends of Nobel Prize winners, aiding in understanding the distribution and frequency of awards across different categories and organizations.
