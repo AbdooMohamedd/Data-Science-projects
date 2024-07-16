@@ -38,6 +38,11 @@ Small projects are quick and concise, often focusing on a single concept or tech
    - Technologies: Python, Pandas, Matplotlib, Seaborn
    - [Link to Project](https://github.com/AbdooMohamedd/Data-Science-projects/tree/main/3-%20Visualizing%20the%20History%20of%20Nobel%20Prize%20Winners)
 
+4. **4- Analyzing Crime in Los Angeles**
+   - Description: This project analyzes crime data in Los Angeles to help the Los Angeles Police Department gain insights about the crimes in the city.
+   - Technologies: Python, Pandas, Matplotlib, Seaborn
+   - [Link to Project](https://github.com/AbdooMohamedd/Data-Science-projects/tree/main/4-%20Analyzing%20Crime%20in%20Los%20Angeles)
+
 
 
 ### Medium Projects
