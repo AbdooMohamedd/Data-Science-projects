@@ -48,5 +48,5 @@ By following the requirements, we can transform and filter the dataset to meet t
 
 ## Repository Link
 
-You can find the project repository at [GitHub - Data Science Projects](https://github.com/AbdooMohamedd/Data-Science-projects).
+You can find the project repository at [GitHub - Data Science Projects]([https://github.com/AbdooMohamedd/Data-Science-projects](https://github.com/AbdooMohamedd/Data-Science-projects/tree/main/5-%20Project%20Customer%20Analytics%20Preparing%20Data%20for%20Modeling)).
 
