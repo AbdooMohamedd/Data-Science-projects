@@ -43,6 +43,11 @@ Small projects are quick and concise, often focusing on a single concept or tech
    - Technologies: Python, Pandas, Matplotlib, Seaborn
    - [Link to Project](https://github.com/AbdooMohamedd/Data-Science-projects/tree/main/4-%20Analyzing%20Crime%20in%20Los%20Angeles)
 
+4. **5- Project: Customer Analytics: Preparing Data for Modeling
+
+   - **Description**: This project involves transforming a DataFrame called `ds_jobs_transformed` to store the data from `customer_train.csv` much more efficiently. The goal is to optimize data types and filter the dataset based on specific criteria to reduce memory usage.
+   - **Technologies**: Python, Pandas, Numpy
+   - [Link to Project](https://github.com/AbdooMohamedd/Data-Science-projects/tree/main/5-%20Project%20Customer%20Analytics%20Preparing%20Data%20for%20Modeling)
 
 
 ### Medium Projects
