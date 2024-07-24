@@ -49,6 +49,12 @@ Small projects are quick and concise, often focusing on a single concept or tech
    - **Technologies**: Python, Pandas, Numpy
    - [Link to Project](https://github.com/AbdooMohamedd/Data-Science-projects/tree/main/5-%20Project%20Customer%20Analytics%20Preparing%20Data%20for%20Modeling)
 
+6. 6- Exploring Airbnb Market Trends
+
+   - **Description**: This project investigates the short-term rental market in New York using Airbnb listing data. It involves analyzing the dates of the earliest and most recent reviews, counting the number of private rooms, and calculating the average listing price. The results are combined into a summary DataFrame.
+   - **Technologies**: Python, Pandas, Jupyter Notebook, seaborn, matplotlib
+   - [Link to Project](https://github.com/AbdooMohamedd/Data-Science-projects/tree/main/6-%20Exploring%20Airbnb%20Market%20Trends)
+
 
 ### Medium Projects
 
