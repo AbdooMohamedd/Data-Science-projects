@@ -11,16 +11,16 @@ The project contains the following key components:
   - `airbnb_room_type.xlsx`: Contains the types of rooms listed.
   - `airbnb_last_review.tsv`: Contains the dates of the last reviews.
 - **notebook/**: This folder contains the Jupyter notebook with the analysis.
-  - `Airbnb_Market_Analysis.ipynb`: The notebook where the data is analyzed.
+  - `notebook.ipynb`: The notebook where the data is analyzed.
 
 ## Data Description
 
 - **airbnb_price.csv**: This file contains the pricing information for Airbnb listings in New York.
-  - Columns: `listing_id`, `price`
+  - Columns: `listing_id`, `price`, `nbhood_full`
 - **airbnb_room_type.xlsx**: This file contains information about the room types available on Airbnb.
-  - Columns: `listing_id`, `room_type`
+  - Columns: `listing_id`, `room_type`, `description`
 - **airbnb_last_review.tsv**: This file contains the dates of the last reviews for each listing.
-  - Columns: `listing_id`, `last_review`
+  - Columns: `listing_id`, `last_review`, `host_name`
 
 ## Analysis Overview
 
