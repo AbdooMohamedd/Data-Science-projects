@@ -37,7 +37,7 @@ To get started with this project, follow these steps:
 
    ```bash
    git clone https://github.com/AbdooMohamedd/data-science-projects.git
-   cd data-science-projects/7- Modeling Car Insurance Claim Outcomes# Modeling Car Insurance Claim Outcomes
+   cd data-science-projects/7- Modeling Car Insurance Claim Outcomes
 
 This project is part of the [Data Science Projects](https://github.com/AbdooMohamedd/Data-Science-projects) repository by [AbdooMohamedd](https://github.com/AbdooMohamedd). In this project, we aim to build a model to predict whether a customer will make a claim on their car insurance during the policy period.
 
