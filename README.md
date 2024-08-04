@@ -59,7 +59,12 @@ Small projects are quick and concise, often focusing on a single concept or tech
    - Description: This project aims to build a model to predict whether a customer will make a claim on their car insurance during the policy period.
    - Technologies: Python, Pandas, Scikit-learn, statsmodels
    - [Link to Project](https://github.com/AbdooMohamedd/Data-Science-projects/tree/main/7-%20Modeling%20Car%20Insurance%20Claim%20Outcomes)
+  
+8. 8- Hypothesis Testing with Men's and Women's Soccer Matches
 
+    - **Description:** This project investigates whether more goals are scored in women's international soccer matches compared to men's. The analysis focuses on official FIFA World Cup matches since January 1, 2002, using statistical hypothesis testing to validate the hypothesis.
+    - **Technologies:** Python, Pandas, Matplotlib, Pingouin, Scipy
+    - [Link to Project](https://github.com/AbdooMohamedd/Data-Science-projects/tree/main/8-%20Hypothesis%20Testing%20with%20Men's%20and%20Women's%20Soccer%20Matches)
 
 ### Medium Projects
 
