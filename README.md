@@ -70,6 +70,11 @@ Small projects are quick and concise, often focusing on a single concept or tech
    - Technologies: Python, Pandas, Scikit-learn
    - [Link to Project](https://github.com/AbdooMohamedd/Data-Science-projects/tree/main/9-%20Predictive%20Modeling%20for%20Agriculture)
 
+10- **10- Clustering Antarctic Penguin Species**
+   - Description: This project uses clustering techniques to identify different species of Antarctic penguins based on their physical characteristics.
+   - Technologies: Python, Pandas, Scikit-learn, Matplotlib, Seaborn
+   - [Link to Project](https://github.com/AbdooMohamedd/Data-Science-projects/tree/main/10-%20Clustering%20Antarctic%20Penguin%20Species)
+
 ### Medium Projects
 
 Medium projects are more extensive and may involve multiple steps or techniques. These projects provide a deeper understanding of data science workflows and methodologies.
