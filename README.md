@@ -87,7 +87,7 @@ Medium projects are more comprehensive and involve multiple steps and techniques
 1. **12- DataCamp Data Scientist Associate Practical Supermarket Loyalty**
    - Description: This project involves analyzing supermarket loyalty data to understand customer behavior and predict future loyalty.
    - Technologies: Python, Pandas, Scikit-learn, Matplotlib, Seaborn
-   - [Link to Project](https://github.com/AbdooMohamedd/Data-Science-projects/tree/main/12-%20DataCamp%20Data%20Scientist%20Associate%20Practical%20Supermarket%20Loyalty)
+   - [Link to Project](https://github.com/AbdooMohamedd/Data-Science-projects/tree/main/12-%20DataCamp%20Data%20Scientist%20Associate%20Proctical%20Supermarket%20Loyalty)
 
 2. **13- DataCamp Data Scientist Associate Certification DS601P**
    - Description: This project is part of the DataCamp Data Scientist Associate Certification and involves various data science tasks to demonstrate proficiency in data analysis and modeling.
