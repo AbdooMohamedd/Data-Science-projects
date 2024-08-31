@@ -75,6 +75,11 @@ Small projects are quick and concise, often focusing on a single concept or tech
    - Technologies: Python, Pandas, Scikit-learn, Matplotlib, Seaborn
    - [Link to Project](https://github.com/AbdooMohamedd/Data-Science-projects/tree/main/10-%20Clustering%20Antarctic%20Penguin%20Species)
 
+11- **11- Predicting Movie Rental Durations**
+   - Description: This project aims to predict the duration for which a movie will be rented based on various features.
+   - Technologies: Python, Pandas, Scikit-learn
+   - [Link to Project](https://github.com/AbdooMohamedd/Data-Science-projects/tree/main/11-%20Predicting%20Movie%20Rental%20Durations)
+
 ### Medium Projects
 
 Medium projects are more extensive and may involve multiple steps or techniques. These projects provide a deeper understanding of data science workflows and methodologies.
@@ -83,11 +88,6 @@ Medium projects are more extensive and may involve multiple steps or techniques.
    - Description: Brief description of the project.
    - Technologies: List of technologies and tools used.
    - [Link to Project](./medium-projects/project-name-1)
-
-2. **Project Name 2**
-   - Description: Brief description of the project.
-   - Technologies: List of technologies and tools used.
-   - [Link to Project](./medium-projects/project-name-2)
 
 ## Getting Started
 
@@ -111,7 +111,7 @@ To get started with any of the projects, follow these steps:
    Each project specifies its dependencies in the documentation. Install the dependencies using pip:
 
    ```bash
-   pip install -r requirements.txt
+   pip install pandas Matplotlib Seaborn scikit-learn 
    ```
 
 4. **Run the project:**
