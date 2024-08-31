@@ -1,0 +1,1247 @@
+customer_id,spend,first_month,items_in_first_month,region,loyalty_years,joining_month,promotion
+0001,132.68,15.3,5,Asia/Pacific,5-10,Nov,No
+0002,106.45,16.2,14,Asia/Pacific,0-1,Feb,Yes
+0003,123.16,25.26,7,Middle East/Africa,10+,Dec,Yes
+0004,130.6,24.74,8,Middle East/Africa,3-5,Apr,No
+0005,130.41,25.59,8,Middle East/Africa,3-5,Apr,Yes
+0006,127.46,21.45,7,Europe,3-5,May,Yes
+0007,127.17,21.46,14,Middle East/Africa,3-5,NA,NO
+0008,125.5,19.11,7,Asia/Pacific,3-5,Jul,Yes
+0009,106.8,16.01,14,Americas,0-1,Feb,Yes
+0010,112.28,21.49,7,Europe,0-1,May,NO
+0011,119.49,13.47,13,Asia/Pacific,3-5,Oct,No
+0012,137.59,21.32,9,Asia/Pacific,5-10,Jan,YES
+0013,119.9,21.36,7,Asia/Pacific,10+,May,YES
+0014,111.97,21.25,9,Americas,0-1,Jan,No
+0015,130.12,24.38,9,Asia/Pacific,3-5,Apr,NO
+0016,110.08,19.67,7,Europe,0-1,Jul,No
+0017,132.67,15.79,5,Middle East/Africa,5-10,Nov,No
+0018,109.79,19.37,7,Europe,0-1,Jul,Yes
+0019,130.04,13.68,13,Europe,5-10,Oct,No
+0020,126.32,15.63,14,Middle East/Africa,1-3,Feb,No
+0021,131.87,15.94,6,Europe,5-10,Nov,No
+0022,115.62,24.42,8,Asia/Pacific,0-1,Apr,Yes
+0023,119.43,13.64,13,Middle East/Africa,3-5,Oct,No
+0024,127.32,21.28,7,Middle East/Africa,3-5,May,No
+0025,106.75,16.19,14,Middle East/Africa,0-1,NA,Yes
+0026,136.57,19.49,7,Middle East/Africa,5-10,Jul,Yes
+0027,131.27,.,9,Middle East/Africa,1-3,Jan,No
+0028,141.85,.,8,Asia/Pacific,5-10,Apr,No
+0029,129.82,13.77,13,Europe,5-10,Oct,YES
+0030,137.68,21.22,13,Americas,5-10,Sep,No
+0031,111.87,21.12,9,Middle East/Africa,0-1,Jan,Yes
+0032,111.94,21.11,9,Europe,0-1,Jan,Yes
+0033,137.93,21.43,14,Europe,5-10,NA,YES
+0034,131.6,21.42,8,Europe,1-3,May,No
+0035,122.14,15.63,14,Middle East/Africa,3-5,Feb,No
+0036,106.57,15.76,14,Asia/Pacific,0-1,Feb,No
+0037,107.86,16.86,5,Asia/Pacific,0-1,Mar,Yes
+0038,109.83,19.33,8,Asia/Pacific,0-1,Jul,YES
+0039,107.66,16.85,5,Asia/Pacific,0-1,Mar,Yes
+0040,141.75,26.05,7,Asia/Pacific,5-10,Dec,Yes
+0041,109.74,19.16,7,Asia/Pacific,0-1,Jul,No
+0042,130.44,25.66,8,Middle East/Africa,3-5,NA,No
+0043,112.42,21.38,7,Asia/Pacific,0-1,May,No
+0044,112.09,13.59,13,Americas,10+,Oct,Yes
+0045,127.18,21.55,7,Americas,3-5,NA,NO
+0046,127.13,.,5,Americas,1-3,Mar,No
+0047,110.66,19.65,7,Asia/Pacific,0-1,Jul,No
+0048,119.41,13.69,14,Europe,3-5,Oct,Yes
+0049,137.54,21.07,9,Americas,5-10,Jan,No
+0050,122.75,.,5,Middle East/Africa,3-5,Mar,Yes
+0051,131.82,21.25,13,Europe,1-3,Sep,No
+0052,136.49,19.64,7,Americas,5-10,Jul,Yes
+0053,125.9,19.13,7,Americas,3-5,Jul,Yes
+0054,142.01,24.95,8,Middle East/Africa,5-10,Apr,Yes
+0055,127.31,21.34,7,Middle East/Africa,3-5,May,Yes
+0056,131.64,21.38,7,Middle East/Africa,1-3,May,No
+0057,131.52,21.29,7,Europe,1-3,May,YES
+0058,122.7,16.69,5,Middle East/Africa,3-5,Mar,Yes
+0059,111.29,19.89,8,Americas,0-1,Jul,NO
+0060,130.42,20.47,12,Europe,1-3,Jun,NO
+0061,122.75,16.89,5,Europe,3-5,Mar,No
+0062,136.85,.,11,Asia/Pacific,5-10,Jun,NO
+0063,106.36,15.9,6,Asia/Pacific,0-1,Nov,Yes
+0064,123.42,24.53,7,Americas,10+,NA,Yes
+0065,134.58,24.8,9,Middle East/Africa,1-3,Apr,No
+0066,126.98,21.02,9,Asia/Pacific,3-5,Jan,No
+0067,131.26,.,9,Americas,1-3,Jan,Yes
+0068,137.64,21.3,14,Americas,5-10,Sep,YES
+0069,106.63,15.85,14,Americas,0-1,Feb,Yes
+0070,110.69,19.86,7,Middle East/Africa,0-1,Jul,No
+0071,126.9,21.08,9,Europe,3-5,Jan,Yes
+0072,107.11,16.09,14,Asia/Pacific,0-1,Feb,Yes
+0073,127.26,.,14,Middle East/Africa,3-5,NA,No
+0074,135.48,20.6,7,Middle East/Africa,5-10,Jul,Yes
+0075,126.52,17.69,9,Americas,1-3,Aug,Yes
+0076,115.57,25.77,8,Middle East/Africa,0-1,NA,YES
+0077,123.05,24.43,8,Europe,10+,Apr,Yes
+0078,141.04,24.09,9,Asia/Pacific,5-10,Apr,NO
+0079,135.96,19.38,7,Europe,5-10,Jul,Yes
+0080,135.69,19.53,7,Europe,5-10,Jul,No
+0081,131.69,21.34,7,Asia/Pacific,1-3,May,Yes
+0082,119.36,13.49,13,Asia/Pacific,3-5,Oct,Yes
+0083,121.71,16.07,14,Europe,3-5,Feb,No
+0084,131.58,21.39,7,Europe,1-3,May,No
+0085,125.86,17.45,5,Europe,1-3,Nov,Yes
+0086,112.13,21.66,14,Middle East/Africa,0-1,NA,No
+0087,129.5,18.81,8,Asia/Pacific,1-3,Jul,No
+0088,106.61,15.79,14,Europe,0-1,Feb,Yes
+0089,115.11,24.87,9,Middle East/Africa,0-1,Apr,Yes
+0090,112.02,21.35,9,Asia/Pacific,0-1,Jan,No
+0091,106.28,15.81,14,Americas,0-1,Feb,No
+0092,132.07,15.89,14,Americas,5-10,Feb,No
+0093,130,13.55,13,Asia/Pacific,5-10,Oct,No
+0094,127.32,21.57,14,Middle East/Africa,3-5,Sep,No
+0095,125.72,19.61,7,Middle East/Africa,3-5,Jul,Yes
+0096,112.35,21.41,7,Middle East/Africa,0-1,May,Yes
+0097,136.72,20.09,11,Middle East/Africa,5-10,Jun,Yes
+0098,136.31,19.13,7,Europe,5-10,Jul,YES
+0099,130.77,25.01,8,Middle East/Africa,3-5,Apr,Yes
+0100,119.73,21.4,14,Middle East/Africa,10+,Sep,No
+0101,134.94,24.65,8,Europe,1-3,Dec,No
+0102,106.8,15.96,5,Asia/Pacific,0-1,NA,No
+0103,125.95,.,14,Middle East/Africa,1-3,Feb,No
+0104,137.72,21.67,7,Middle East/Africa,5-10,May,No
+0105,114.72,.,9,Middle East/Africa,10+,NA,No
+0106,119.32,13.5,13,Europe,3-5,Oct,Yes
+0107,119.95,21.46,7,Americas,10+,May,YES
+0108,131.68,21.33,7,Middle East/Africa,1-3,May,No
+0109,114.22,15.8,14,Americas,10+,Feb,YES
+0110,110.23,19.91,8,Americas,0-1,Jul,No
+0111,126,16.7,8,Americas,1-3,Aug,Yes
+0112,126.98,21.47,14,Middle East/Africa,3-5,Sep,No
+0113,112.24,21.18,9,Americas,0-1,Jan,No
+0114,107.65,16.85,5,Americas,0-1,Mar,Yes
+0115,132.63,16.17,9,Middle East/Africa,5-10,Aug,Yes
+0116,131.55,21.63,7,Americas,1-3,May,Yes
+0117,132.97,15.62,5,Middle East/Africa,5-10,Nov,Yes
+0118,135.42,19.59,7,Asia/Pacific,5-10,Jul,Yes
+0119,141.35,24.43,7,Americas,5-10,NA,NO
+0120,131.87,21.35,7,Europe,1-3,May,Yes
+0121,123.28,24.55,7,Europe,10+,Dec,Yes
+0122,107.65,16.75,5,Asia/Pacific,0-1,Mar,No
+0123,127.35,20.51,11,Europe,3-5,Jun,Yes
+0124,126.82,16.03,10,Middle East/Africa,1-3,Aug,No
+0125,104.44,13.53,14,Middle East/Africa,0-1,Oct,Yes
+0126,110.08,19.13,7,Middle East/Africa,0-1,Jul,Yes
+0127,112.27,20.96,9,Asia/Pacific,0-1,Jan,Yes
+0128,136.83,.,11,Europe,5-10,Jun,Yes
+0129,122.66,16.61,6,Americas,3-5,Mar,No
+0130,131.59,.,7,Americas,1-3,May,Yes
+0131,123.36,24.98,7,Americas,10+,Dec,Yes
+0132,122.8,24.72,8,Middle East/Africa,10+,Apr,No
+0133,112.23,21.56,7,Middle East/Africa,0-1,May,No
+0134,111.86,.,9,Asia/Pacific,0-1,Jan,Yes
+0135,137.55,21.24,14,Americas,5-10,Sep,Yes
+0136,130.01,13.44,13,Europe,5-10,Oct,Yes
+0137,134.81,24.72,7,Asia/Pacific,1-3,Dec,No
+0138,112.16,13.5,14,Europe,10+,Oct,No
+0139,119.41,.,13,Europe,3-5,Oct,No
+0140,112.19,20.9,9,Europe,0-1,Jan,Yes
+0141,115.57,25.02,8,Europe,0-1,Apr,Yes
+0142,136.73,.,11,Europe,5-10,Jun,No
+0143,129.69,19.26,8,Middle East/Africa,1-3,Jul,Yes
+0144,112.36,21.28,7,Americas,0-1,May,No
+0145,130.44,24.46,8,Americas,3-5,Apr,No
+0146,140.99,24.8,7,Europe,5-10,Dec,Yes
+0147,119.45,21.33,9,Middle East/Africa,10+,Jan,No
+0148,112.04,21.11,9,Americas,0-1,Jan,No
+0149,111.96,21.4,9,Europe,0-1,NA,No
+0150,129.91,13.5,13,Asia/Pacific,5-10,Oct,Yes
+0151,131.64,20.96,9,Asia/Pacific,1-3,Jan,No
+0152,106.77,15.55,14,Americas,0-1,NA,Yes
+0153,111.79,21.39,9,Europe,0-1,Jan,Yes
+0154,131.76,15.47,6,Middle East/Africa,5-10,Nov,No
+0155,127.16,16.87,5,Europe,1-3,Mar,Yes
+0156,113.94,16.34,6,Americas,10+,Nov,No
+0157,126.23,20.62,11,Europe,3-5,Jun,No
+0158,127.05,16.96,5,Americas,1-3,Mar,Yes
+0159,130.78,.,8,Asia/Pacific,3-5,Dec,No
+0160,104.49,13.47,13,Americas,0-1,Oct,Yes
+0161,137.85,21.28,8,Middle East/Africa,5-10,May,No
+0162,114.71,16.3,9,Europe,10+,Aug,No
+0163,107.56,.,5,Americas,0-1,Mar,Yes
+0164,118.94,19.75,11,Americas,10+,Jun,NO
+0165,119.41,13.38,13,Asia/Pacific,3-5,NA,Yes
+0166,125.79,15.62,14,Asia/Pacific,1-3,Feb,No
+0167,120.94,16.04,6,Middle East/Africa,3-5,Nov,Yes
+0168,131.47,21.24,8,Asia/Pacific,1-3,Jan,No
+0169,131.25,20.99,9,Americas,1-3,Jan,NO
+0170,127.21,21.42,9,Middle East/Africa,3-5,Jan,Yes
+0171,137.51,21.15,13,Europe,5-10,Sep,Yes
+0172,130.52,24.84,7,Europe,3-5,Dec,No
+0173,130.01,.,13,Middle East/Africa,5-10,Oct,Yes
+0174,112.06,20.96,9,Middle East/Africa,0-1,Jan,No
+0175,112.49,.,9,Europe,0-1,Jan,Yes
+0176,112.19,21.51,7,Middle East/Africa,0-1,May,No
+0177,113.86,15.89,5,Europe,10+,Nov,No
+0178,126.27,16,10,Americas,1-3,Aug,No
+0179,120.02,.,14,Asia/Pacific,10+,Sep,No
+0180,116.35,24.75,8,Europe,0-1,Apr,No
+0181,119.57,20.99,14,Americas,10+,NA,Yes
+0182,135.47,19.39,8,Americas,5-10,Jul,No
+0183,121.02,16.4,5,Americas,3-5,NA,No
+0184,112.01,.,9,Europe,0-1,Jan,Yes
+0185,127.06,21.19,14,Middle East/Africa,3-5,Sep,Yes
+0186,136.87,20.76,11,Middle East/Africa,5-10,Jun,No
+0187,111.76,20.92,9,Americas,0-1,Jan,Yes
+0188,113.98,15.48,6,Asia/Pacific,10+,Nov,No
+0189,127.07,16.9,5,Americas,1-3,Mar,No
+0190,112.04,.,9,Middle East/Africa,0-1,Jan,Yes
+0191,111.97,13.41,14,Americas,10+,Oct,Yes
+0192,121.47,15.77,14,Middle East/Africa,3-5,Feb,No
+0193,130.15,20.45,13,Americas,1-3,Jun,Yes
+0194,117.47,24.74,8,Europe,0-1,Apr,Yes
+0195,112.05,21.01,9,Europe,0-1,Jan,Yes
+0196,107.68,16.86,5,Asia/Pacific,0-1,Mar,No
+0197,127.17,.,13,Europe,3-5,Sep,No
+0198,123.7,13.44,13,Americas,1-3,Oct,No
+0199,121.65,15.3,6,Middle East/Africa,3-5,NA,YES
+0200,112.01,21.06,9,Europe,0-1,NA,Yes
+0201,129.89,13.5,14,Americas,5-10,Oct,Yes
+0202,132.88,16.17,9,Middle East/Africa,5-10,Aug,NO
+0203,112.12,21.04,9,Americas,0-1,Jan,Yes
+0204,106.8,15.72,14,Middle East/Africa,0-1,NA,No
+0205,110.84,20.55,11,Middle East/Africa,0-1,Jun,Yes
+0206,136.62,20.17,7,Europe,5-10,Jul,Yes
+0207,121.42,15.75,6,Europe,3-5,Nov,No
+0208,121.33,.,6,Europe,3-5,Nov,No
+0209,121.81,16.04,14,Asia/Pacific,3-5,Feb,NO
+0210,127.03,21.27,9,Middle East/Africa,3-5,Jan,No
+0211,131.62,21.46,13,Middle East/Africa,1-3,Sep,No
+0212,132.33,15.83,14,Americas,5-10,NA,Yes
+0213,131.34,24.92,7,Asia/Pacific,3-5,Dec,YES
+0214,132.56,15.38,14,Europe,5-10,Feb,No
+0215,109.86,20.31,7,Middle East/Africa,0-1,Jul,Yes
+0216,125.37,19.26,7,Middle East/Africa,3-5,Jul,No
+0217,141,24.35,8,Americas,5-10,Apr,No
+0218,130.84,24.49,7,Asia/Pacific,3-5,Dec,Yes
+0219,127.01,.,5,Asia/Pacific,1-3,Mar,No
+0220,126.86,21.33,9,Europe,3-5,Jan,Yes
+0221,136.6,20.27,7,Americas,5-10,Jul,YES
+0222,131.99,15.77,14,Europe,5-10,Feb,No
+0223,115.15,24.84,8,Middle East/Africa,0-1,Apr,Yes
+0224,111.91,21.06,9,Middle East/Africa,0-1,Jan,Yes
+0225,137.92,21.31,7,Americas,5-10,May,No
+0226,115.69,24.59,7,Europe,0-1,Dec,YES
+0227,129.99,21.57,11,Europe,1-3,Jun,Yes
+0228,111.92,13.45,13,Europe,10+,Oct,Yes
+0229,115.57,25.6,8,Asia/Pacific,0-1,Apr,No
+0230,132,15.81,14,Asia/Pacific,5-10,Feb,Yes
+0231,115.22,24.67,8,Middle East/Africa,0-1,Apr,YES
+0232,129.89,13.56,13,Americas,5-10,Oct,Yes
+0233,112.22,21.09,9,Middle East/Africa,0-1,Jan,Yes
+0234,121.67,15.64,14,Europe,3-5,Feb,No
+0235,114.7,15.89,9,Middle East/Africa,10+,Aug,No
+0236,114.21,15.84,6,Asia/Pacific,10+,Nov,No
+0237,121.79,16.38,6,Asia/Pacific,3-5,Nov,No
+0238,119.86,21.34,13,Asia/Pacific,10+,Sep,Yes
+0239,137.72,21.43,7,Asia/Pacific,5-10,May,No
+0240,136.37,25.05,7,Americas,1-3,NA,YES
+0241,131.66,21.29,7,Europe,1-3,May,Yes
+0242,130.53,24.34,8,Asia/Pacific,3-5,NA,Yes
+0243,125.78,15.75,14,Middle East/Africa,1-3,Feb,Yes
+0244,130,19.05,8,Americas,1-3,Jul,No
+0245,119.52,13.82,13,Asia/Pacific,3-5,Oct,Yes
+0246,132.65,16.66,9,Europe,5-10,Aug,Yes
+0247,125.04,20.38,8,Europe,3-5,Jul,No
+0248,110.54,19.63,7,Americas,0-1,Jul,Yes
+0249,112.15,13.62,13,Americas,10+,Oct,No
+0250,112.28,19.84,12,Middle East/Africa,0-1,Jun,Yes
+0251,126.89,16.8,5,Asia/Pacific,1-3,Mar,No
+0252,140.91,.,7,Middle East/Africa,5-10,Dec,No
+0253,125.73,16.02,6,Asia/Pacific,1-3,Nov,No
+0254,131.18,.,9,Middle East/Africa,1-3,NA,Yes
+0255,111.94,13.66,13,Americas,10+,NA,Yes
+0256,112.12,13.6,13,Asia/Pacific,10+,Oct,NO
+0257,111.75,20.27,12,Americas,0-1,Jun,No
+0258,126.69,16.13,14,Americas,1-3,Feb,No
+0259,112.26,21.16,13,Europe,0-1,Sep,No
+0260,130.01,25.38,8,Europe,3-5,NA,Yes
+0261,126.8,16.7,5,Americas,1-3,Mar,Yes
+0262,131.57,21.4,13,Asia/Pacific,1-3,Sep,No
+0263,119.33,13.55,13,Asia/Pacific,3-5,Oct,Yes
+0264,120.93,15.5,6,Americas,3-5,Nov,NO
+0265,104.4,13.41,14,Europe,0-1,Oct,Yes
+0266,121.86,16.9,9,Middle East/Africa,3-5,Aug,No
+0267,109.75,18.95,7,Middle East/Africa,0-1,Jul,No
+0268,107.54,16.77,5,Middle East/Africa,0-1,Mar,No
+0269,127.01,16.87,5,Asia/Pacific,1-3,Mar,Yes
+0270,140.86,24.87,7,Europe,5-10,Dec,No
+0271,112.36,21.19,13,Middle East/Africa,0-1,Sep,No
+0272,136.87,20.02,12,Middle East/Africa,5-10,Jun,Yes
+0273,121.65,15.75,5,Asia/Pacific,3-5,Nov,Yes
+0274,137.29,21.3,13,Middle East/Africa,5-10,Sep,No
+0275,115.58,24.51,8,Middle East/Africa,0-1,Apr,YES
+0276,136.01,19.25,7,Asia/Pacific,5-10,Jul,No
+0277,115.88,24.5,8,Europe,0-1,Apr,No
+0278,112.1,21.44,7,Americas,0-1,May,No
+0279,104.31,13.37,13,Asia/Pacific,0-1,Oct,No
+0280,137.78,21.52,13,Americas,5-10,NA,Yes
+0281,133.19,16.65,5,Asia/Pacific,5-10,NA,Yes
+0282,132.23,16.07,6,Europe,5-10,Nov,No
+0283,106.56,15.91,14,Asia/Pacific,0-1,Feb,No
+0284,121.76,16.48,9,Asia/Pacific,3-5,Aug,No
+0285,128.12,16.23,9,Asia/Pacific,1-3,Aug,NO
+0286,118.72,21,11,Americas,10+,Jun,YES
+0287,127.02,16.73,5,Asia/Pacific,1-3,Mar,No
+0288,140.99,25.11,8,Middle East/Africa,5-10,Apr,NO
+0289,121.94,16.71,9,Middle East/Africa,3-5,Aug,No
+0290,129.86,13.57,13,Asia/Pacific,5-10,NA,Yes
+0291,124.73,.,7,Americas,3-5,Jul,No
+0292,118.36,24.46,9,Europe,0-1,Apr,No
+0293,129.78,13.74,13,Europe,5-10,NA,No
+0294,141.18,24.68,9,Middle East/Africa,5-10,Apr,No
+0295,137.83,.,7,Americas,5-10,May,No
+0296,104.41,13.53,13,Americas,0-1,Oct,Yes
+0297,106.68,15.94,14,Europe,0-1,Feb,No
+0298,136.08,19.79,7,Americas,5-10,NA,No
+0299,141.36,25.12,8,Europe,5-10,Dec,Yes
+0300,111.56,20.39,11,Asia/Pacific,0-1,Jun,Yes
+0301,129.46,19.29,7,Europe,1-3,Jul,Yes
+0302,112,.,9,Middle East/Africa,0-1,Jan,NO
+0303,107.8,16.78,5,Americas,0-1,Mar,NO
+0304,141.81,24.85,7,Europe,5-10,Dec,No
+0305,135.14,24.9,8,Asia/Pacific,1-3,Apr,No
+0306,130.48,19.57,7,Europe,1-3,Jul,No
+0307,137.85,21.29,9,Europe,5-10,Jan,Yes
+0308,112.04,21.03,9,Asia/Pacific,0-1,Jan,No
+0309,125.38,19.38,8,Middle East/Africa,3-5,Jul,Yes
+0310,126.13,15.81,14,Asia/Pacific,1-3,Feb,Yes
+0311,134.72,24.97,8,Americas,1-3,Apr,NO
+0312,112.03,13.41,13,Americas,10+,Oct,Yes
+0313,136.13,.,7,Middle East/Africa,5-10,Jul,No
+0314,123.37,24.63,8,Americas,10+,Apr,No
+0315,131.14,21.37,9,Americas,1-3,Jan,No
+0316,129.81,19.75,7,Europe,1-3,Jul,NO
+0317,131.2,.,9,Asia/Pacific,1-3,Jan,No
+0318,106.82,16.05,14,Middle East/Africa,0-1,Feb,Yes
+0319,119.54,13.45,13,Americas,3-5,NA,No
+0320,112.25,21.51,13,Europe,0-1,Sep,No
+0321,124.26,24.36,8,Asia/Pacific,10+,Apr,Yes
+0322,132.93,16.01,7,Americas,5-10,Nov,Yes
+0323,117.14,24.52,8,Middle East/Africa,0-1,Apr,No
+0324,123.13,25.55,7,Middle East/Africa,10+,Dec,No
+0325,119.54,13.46,14,Middle East/Africa,3-5,Oct,No
+0326,114.43,15.59,6,Europe,10+,Nov,Yes
+0327,111.99,21.26,9,Americas,0-1,Jan,No
+0328,125.97,15.92,14,Americas,1-3,Feb,Yes
+0329,141.34,25.74,7,Asia/Pacific,5-10,Dec,Yes
+0330,111.79,21.35,9,Middle East/Africa,0-1,Jan,No
+0331,127.35,21.6,7,Europe,3-5,May,Yes
+0332,130.08,13.57,13,Middle East/Africa,5-10,Oct,Yes
+0333,132.66,16.09,9,Americas,5-10,Aug,Yes
+0334,132.27,17.38,9,Americas,5-10,Aug,No
+0335,137.6,21.35,13,Middle East/Africa,5-10,Sep,No
+0336,121.33,15.44,5,Asia/Pacific,3-5,Nov,Yes
+0337,126.98,19.12,7,Europe,3-5,Jul,Yes
+0338,132.19,15.34,6,Middle East/Africa,5-10,Nov,Yes
+0339,111.31,20.58,12,Americas,0-1,Jun,No
+0340,123.87,25.04,7,Middle East/Africa,10+,Dec,No
+0341,132.69,16.62,9,Asia/Pacific,5-10,Aug,No
+0342,130.12,24.49,8,Asia/Pacific,3-5,Apr,No
+0343,119.89,21.52,14,Middle East/Africa,10+,Sep,No
+0344,107.65,16.83,5,Middle East/Africa,0-1,NA,Yes
+0345,111.1,20.33,11,Europe,0-1,Jun,Yes
+0346,122.66,16.9,5,Middle East/Africa,3-5,Mar,No
+0347,122.6,16.79,5,Middle East/Africa,3-5,Mar,Yes
+0348,114.3,15.15,5,Europe,10+,Nov,Yes
+0349,106.76,15.82,14,Americas,0-1,Feb,Yes
+0350,107.63,16.79,5,Americas,0-1,Mar,No
+0351,126.27,16.19,14,Europe,1-3,Feb,No
+0352,132.98,18.09,8,Middle East/Africa,5-10,Aug,Yes
+0353,127.04,21.33,14,Middle East/Africa,3-5,NA,No
+0354,112,.,9,Asia/Pacific,0-1,Jan,Yes
+0355,112.09,13.62,14,Middle East/Africa,10+,Oct,No
+0356,135.33,24.34,8,Asia/Pacific,1-3,Apr,Yes
+0357,137.66,21.31,13,Americas,5-10,Sep,Yes
+0358,123.99,13.7,13,Middle East/Africa,1-3,Oct,YES
+0359,117.61,19.05,8,Asia/Pacific,10+,Jul,No
+0360,130.35,24.62,7,Europe,3-5,Dec,No
+0361,111.97,21.15,9,Europe,0-1,Jan,Yes
+0362,131.1,21.38,9,Asia/Pacific,1-3,Jan,No
+0363,111.96,13.59,14,Asia/Pacific,10+,Oct,No
+0364,133.69,15.78,6,Middle East/Africa,5-10,NA,No
+0365,112,.,9,Middle East/Africa,0-1,Jan,No
+0366,121.05,14.95,6,Europe,3-5,Nov,NO
+0367,120.09,21.39,7,Asia/Pacific,10+,May,No
+0368,129.86,13.65,14,Asia/Pacific,5-10,Oct,No
+0369,116.19,24.5,8,Americas,0-1,Apr,NO
+0370,115.51,25.5,8,Europe,0-1,Apr,Yes
+0371,127.41,21.31,7,Americas,3-5,May,Yes
+0372,137.79,21.46,7,Europe,5-10,May,No
+0373,127.82,16.69,10,Asia/Pacific,1-3,Aug,Yes
+0374,121.59,16.52,6,Asia/Pacific,3-5,Nov,No
+0375,107.09,16.56,9,Middle East/Africa,0-1,Aug,Yes
+0376,130.39,20.39,12,Europe,1-3,Jun,Yes
+0377,131.35,20.9,9,Europe,1-3,Jan,YES
+0378,137.91,21.27,14,Middle East/Africa,5-10,Sep,Yes
+0379,130.13,.,14,Middle East/Africa,5-10,Oct,No
+0380,131.71,.,7,Asia/Pacific,1-3,May,No
+0381,125.04,19.52,8,Europe,3-5,Jul,No
+0382,131.43,21.24,9,Americas,1-3,Jan,Yes
+0383,131.67,21.35,14,Europe,1-3,Sep,No
+0384,126.92,21.48,13,Europe,3-5,NA,No
+0385,127.03,16.86,5,Americas,1-3,NA,Yes
+0386,112.18,21.42,7,Middle East/Africa,0-1,May,YES
+0387,111.98,.,9,Middle East/Africa,0-1,Jan,Yes
+0388,126.97,16.94,5,Asia/Pacific,1-3,Mar,No
+0389,115.95,.,8,Americas,0-1,Apr,No
+0390,131.59,21.25,7,Americas,1-3,NA,No
+0391,121.46,15.35,6,Asia/Pacific,3-5,Nov,No
+0392,111.94,21.22,9,Europe,0-1,Jan,NO
+0393,112.07,21.5,7,Americas,0-1,May,Yes
+0394,117.68,19.92,7,Asia/Pacific,10+,Jul,Yes
+0395,126.91,21.31,9,Middle East/Africa,3-5,Jan,Yes
+0396,132.3,16.05,5,Europe,5-10,Nov,Yes
+0397,110.8,19.13,7,Europe,0-1,Jul,No
+0398,136.11,20.43,7,Europe,5-10,Jul,Yes
+0399,133.17,16.88,5,Europe,5-10,Mar,No
+0400,137.65,.,13,Americas,5-10,NA,No
+0401,119.32,.,13,Europe,3-5,Oct,No
+0402,137.64,21.38,13,Middle East/Africa,5-10,NA,No
+0403,117.78,19.21,7,Americas,10+,Jul,Yes
+0404,124.78,20.05,7,Asia/Pacific,3-5,Jul,No
+0405,130.47,20.45,11,Middle East/Africa,1-3,Jun,No
+0406,137.86,21.31,13,Asia/Pacific,5-10,Sep,NO
+0407,127.06,16.75,5,Asia/Pacific,1-3,NA,No
+0408,133.03,16.5,9,Middle East/Africa,5-10,Aug,Yes
+0409,112.05,21.4,13,Asia/Pacific,0-1,Sep,No
+0410,132.13,20.38,11,Americas,1-3,Jun,No
+0411,112.29,21.23,14,Asia/Pacific,0-1,Sep,Yes
+0412,130.57,20.5,12,Europe,1-3,Jun,Yes
+0413,111.76,20.32,11,Asia/Pacific,0-1,Jun,No
+0414,130.46,20.6,12,Middle East/Africa,1-3,NA,Yes
+0415,115.28,.,8,Americas,0-1,Apr,Yes
+0416,116.3,26.2,8,Asia/Pacific,0-1,Apr,Yes
+0417,114.58,16.26,6,Middle East/Africa,10+,Nov,No
+0418,109.86,19.91,7,Middle East/Africa,0-1,Jul,Yes
+0419,126.9,16.71,5,Europe,1-3,Mar,Yes
+0420,131.8,20.99,9,Europe,1-3,Jan,No
+0421,129.91,13.52,13,Europe,5-10,Oct,Yes
+0422,106.51,16.11,14,Europe,0-1,Feb,No
+0423,121.49,16.47,8,Asia/Pacific,3-5,Aug,No
+0424,125.45,.,8,Americas,3-5,Jul,No
+0425,126.09,20.73,13,Americas,3-5,Jun,No
+0426,135.47,19.35,7,Americas,5-10,Jul,Yes
+0427,130.75,19.8,13,Europe,1-3,Jun,Yes
+0428,107.8,16.85,5,Asia/Pacific,0-1,Mar,NO
+0429,137.31,21.15,9,Middle East/Africa,5-10,Jan,No
+0430,106.59,15.82,14,Americas,0-1,Feb,Yes
+0431,112.05,21.35,9,Middle East/Africa,0-1,Jan,Yes
+0432,121.98,16.23,6,Asia/Pacific,3-5,NA,Yes
+0433,130.18,13.43,13,Middle East/Africa,5-10,Oct,No
+0434,123.66,13.44,13,Americas,1-3,Oct,Yes
+0435,121.51,15.76,14,Asia/Pacific,3-5,Feb,Yes
+0436,129.91,13.51,13,Middle East/Africa,5-10,Oct,Yes
+0437,119.36,13.48,13,Americas,3-5,Oct,NO
+0438,111.89,21.09,9,Americas,0-1,Jan,No
+0439,132.13,15.62,14,Asia/Pacific,5-10,Feb,No
+0440,123.36,15.99,8,Asia/Pacific,3-5,Aug,Yes
+0441,122.01,16.13,8,Americas,3-5,Aug,Yes
+0442,106.56,15.78,14,Middle East/Africa,0-1,Feb,No
+0443,110.57,22.1,11,Asia/Pacific,0-1,NA,Yes
+0444,134.73,24.22,10,Middle East/Africa,1-3,Apr,No
+0445,106.63,15.75,14,Europe,0-1,Feb,No
+0446,127.1,16.61,5,Middle East/Africa,1-3,Mar,No
+0447,123.68,13.57,13,Asia/Pacific,1-3,Oct,Yes
+0448,131.69,.,7,Americas,1-3,NA,No
+0449,123.89,13.58,13,Asia/Pacific,1-3,Oct,YES
+0450,133.14,16.71,5,Asia/Pacific,5-10,NA,NO
+0451,122.44,.,9,Asia/Pacific,3-5,Aug,No
+0452,129.81,13.48,13,Asia/Pacific,5-10,Oct,Yes
+0453,107.08,15.49,14,Europe,0-1,Feb,No
+0454,125.16,19.41,8,Americas,3-5,Jul,No
+0455,123.78,13.59,13,Asia/Pacific,1-3,Oct,No
+0456,133.15,16.9,9,Americas,5-10,Aug,Yes
+0457,112.07,21.3,14,Europe,0-1,NA,NO
+0458,126.81,21.17,9,Americas,3-5,Jan,No
+0459,112.08,21.31,14,Europe,0-1,Sep,No
+0460,126.68,15.95,14,Middle East/Africa,1-3,Feb,No
+0461,131.74,21.18,14,Americas,1-3,Sep,No
+0462,122.5,16.8,5,Europe,3-5,Mar,No
+0463,129.73,19.59,8,Americas,1-3,Jul,Yes
+0464,137.88,21.48,14,Asia/Pacific,5-10,Sep,No
+0465,115.81,24.77,8,Middle East/Africa,0-1,Apr,Yes
+0466,136.39,20.52,11,Europe,5-10,Jun,YES
+0467,126.87,16.79,5,Europe,1-3,Mar,No
+0468,123.29,25.78,8,Asia/Pacific,10+,Dec,Yes
+0469,106.57,.,14,Americas,0-1,NA,Yes
+0470,129.95,13.74,13,Europe,5-10,Oct,Yes
+0471,107.69,16.78,5,Middle East/Africa,0-1,NA,No
+0472,119.97,21.38,14,Middle East/Africa,10+,Sep,Yes
+0473,123.84,13.54,13,Middle East/Africa,1-3,Oct,NO
+0474,127.3,21.44,7,Middle East/Africa,3-5,May,No
+0475,141.52,24.9,7,Middle East/Africa,5-10,NA,Yes
+0476,126.88,.,9,Middle East/Africa,3-5,Jan,Yes
+0477,127.19,16.84,6,Americas,1-3,Mar,No
+0478,111.89,21.33,9,Asia/Pacific,0-1,Jan,No
+0479,121.56,.,6,Europe,3-5,Nov,YES
+0480,111.54,20.6,11,Americas,0-1,Jun,Yes
+0481,106.4,15.98,14,Europe,0-1,Feb,Yes
+0482,112.09,.,9,Americas,0-1,Jan,Yes
+0483,123.18,25,6,Americas,10+,Dec,Yes
+0484,112.17,21.08,9,Americas,0-1,NA,Yes
+0485,106.94,17,9,Asia/Pacific,0-1,Aug,No
+0486,107.36,15.81,14,Middle East/Africa,0-1,Feb,Yes
+0487,137.53,21.4,14,Asia/Pacific,5-10,Sep,Yes
+0488,136.07,19.44,8,Europe,5-10,Jul,Yes
+0489,109.77,19.05,7,Asia/Pacific,0-1,Jul,Yes
+0490,129.93,13.88,13,Asia/Pacific,5-10,Oct,Yes
+0491,131.6,21.28,7,Europe,1-3,May,Yes
+0492,111.34,20.7,11,Asia/Pacific,0-1,Jun,Yes
+0493,112.18,21.39,14,Americas,0-1,Sep,No
+0494,135.09,19.99,7,Middle East/Africa,5-10,Jul,No
+0495,107.92,16.58,5,Asia/Pacific,0-1,Mar,No
+0496,131.88,21.4,7,Americas,1-3,May,Yes
+0497,131.43,20.9,9,Americas,1-3,Jan,No
+0498,132.57,16.2,9,Americas,5-10,Aug,Yes
+0499,126.94,21.08,9,Asia/Pacific,3-5,Jan,Yes
+0500,127.07,.,7,Middle East/Africa,3-5,May,No
+0501,137.73,21.21,13,Middle East/Africa,5-10,NA,No
+0502,106.83,17,11,Asia/Pacific,0-1,Aug,Yes
+0503,126.31,15.75,14,Europe,1-3,Feb,No
+0504,121.23,16.05,7,Middle East/Africa,3-5,Nov,No
+0505,110.97,20.5,12,Europe,0-1,Jun,YES
+0506,126.02,15.63,14,Middle East/Africa,1-3,Feb,No
+0507,112.14,21.25,9,Middle East/Africa,0-1,Jan,Yes
+0508,125.68,19.21,7,Asia/Pacific,3-5,Jul,Yes
+0509,112.25,21.27,13,Americas,0-1,Sep,No
+0510,124.7,19.45,7,Middle East/Africa,3-5,Jul,Yes
+0511,121.45,15.2,6,Americas,3-5,Nov,No
+0512,120.93,16.4,6,Middle East/Africa,3-5,Nov,Yes
+0513,121.44,15.06,6,Asia/Pacific,3-5,Nov,No
+0514,115.8,25.14,8,Asia/Pacific,0-1,Apr,Yes
+0515,106.95,15.57,14,Europe,0-1,Feb,No
+0516,112.03,21.18,9,Americas,0-1,Jan,No
+0517,126.13,20.84,11,Europe,3-5,Jun,No
+0518,127.04,.,14,Europe,3-5,Sep,No
+0519,137.1,20.93,11,Americas,5-10,Jun,No
+0520,111.9,21.01,9,Europe,0-1,Jan,No
+0521,131.64,.,13,Middle East/Africa,1-3,Sep,Yes
+0522,112.1,21.28,9,Middle East/Africa,0-1,Jan,No
+0523,131.63,21.52,7,Europe,1-3,May,No
+0524,111.9,21.14,9,Asia/Pacific,0-1,Jan,No
+0525,112.14,21.28,9,Europe,0-1,Jan,Yes
+0526,141.69,24.81,8,Europe,5-10,Dec,Yes
+0527,131.62,21.39,7,Americas,1-3,May,No
+0528,115.8,25.57,8,Asia/Pacific,0-1,Apr,YES
+0529,126.94,22.1,11,Middle East/Africa,3-5,Jun,YES
+0530,106.91,15.89,14,Middle East/Africa,0-1,Feb,Yes
+0531,115.28,25.4,8,Asia/Pacific,0-1,NA,Yes
+0532,127.16,21.63,7,Middle East/Africa,3-5,May,YES
+0533,111.78,20.94,9,Americas,0-1,Jan,Yes
+0534,125.83,20.28,7,Europe,3-5,Jul,Yes
+0535,134.13,16.72,9,Europe,5-10,Aug,Yes
+0536,114.44,15.2,6,Asia/Pacific,10+,Nov,Yes
+0537,130.05,19.39,7,Middle East/Africa,1-3,Jul,No
+0538,125.37,15.95,6,Asia/Pacific,1-3,Nov,NO
+0539,112.25,21.47,14,Middle East/Africa,0-1,Sep,No
+0540,126.01,.,14,Europe,1-3,Feb,No
+0541,118.75,20.41,11,Europe,10+,Jun,No
+0542,127.26,21.39,14,Europe,3-5,Sep,Yes
+0543,132.28,16.31,14,Europe,5-10,Feb,Yes
+0544,131.67,.,7,Middle East/Africa,1-3,May,No
+0545,126.3,15.85,14,Middle East/Africa,1-3,Feb,Yes
+0546,126.42,16.21,9,Americas,1-3,NA,No
+0547,111.81,20.94,9,Americas,0-1,Jan,Yes
+0548,119.92,.,14,Europe,10+,Sep,No
+0549,112.07,.,9,Europe,0-1,Jan,NO
+0550,136.32,20.13,12,Asia/Pacific,5-10,Jun,No
+0551,137.9,21.63,14,Middle East/Africa,5-10,Sep,Yes
+0552,125.98,22.39,11,Europe,3-5,Jun,Yes
+0553,114.35,15.27,6,Americas,10+,NA,Yes
+0554,112.5,.,7,Europe,0-1,May,Yes
+0555,112.36,21.33,7,Americas,0-1,May,Yes
+0556,130.02,13.53,13,Middle East/Africa,5-10,Oct,Yes
+0557,106.59,15.91,14,Europe,0-1,Feb,NO
+0558,133.38,16.2,8,Asia/Pacific,5-10,Aug,Yes
+0559,123.39,24.64,7,Europe,10+,Dec,No
+0560,126.58,20.35,12,Europe,3-5,Jun,No
+0561,122.08,16.54,9,Middle East/Africa,3-5,Aug,No
+0562,134.57,.,8,Asia/Pacific,1-3,Apr,No
+0563,106.63,15.29,6,Europe,0-1,NA,No
+0564,112.36,.,14,Americas,0-1,Sep,Yes
+0565,127.01,21.33,13,Asia/Pacific,3-5,Sep,YES
+0566,140.92,24.39,8,Asia/Pacific,5-10,Apr,No
+0567,107.64,16.84,5,Middle East/Africa,0-1,Mar,No
+0568,141.15,24.57,8,Americas,5-10,Apr,No
+0569,107.12,15.94,10,Europe,0-1,Aug,Yes
+0570,129.95,.,14,Europe,5-10,NA,Yes
+0571,134.83,24.8,8,Asia/Pacific,1-3,Apr,No
+0572,131.68,16.08,5,Americas,5-10,Nov,No
+0573,126.91,21.09,9,Middle East/Africa,3-5,Jan,Yes
+0574,126.79,16.78,5,Americas,1-3,Mar,Yes
+0575,126.92,20.88,9,Asia/Pacific,3-5,Jan,No
+0576,107.02,15.61,14,Americas,0-1,NA,YES
+0577,127.22,21.21,13,Middle East/Africa,3-5,Sep,Yes
+0578,123.84,13.56,13,Asia/Pacific,1-3,Oct,Yes
+0579,106.65,15.99,14,Europe,0-1,Feb,No
+0580,112.04,.,9,Americas,0-1,Jan,Yes
+0581,140.75,24.36,8,Asia/Pacific,5-10,Apr,Yes
+0582,111.88,13.41,13,Americas,10+,Oct,No
+0583,115.59,24.4,8,Middle East/Africa,0-1,Apr,No
+0584,133.75,18.29,9,Asia/Pacific,5-10,Aug,No
+0585,125.53,19.13,7,Europe,3-5,Jul,No
+0586,127.22,.,13,Middle East/Africa,3-5,Sep,No
+0587,110.31,19.5,8,Middle East/Africa,0-1,Jul,Yes
+0588,134.42,26.14,8,Europe,1-3,Apr,Yes
+0589,135.12,.,8,Americas,1-3,Apr,Yes
+0590,107.83,16.74,5,Middle East/Africa,0-1,Mar,Yes
+0591,115.7,24.77,8,Asia/Pacific,0-1,Apr,Yes
+0592,131.54,21.29,7,Asia/Pacific,1-3,NA,No
+0593,130.99,19.2,7,Asia/Pacific,1-3,Jul,No
+0594,115.26,24.4,8,Americas,0-1,Apr,No
+0595,130.1,13.64,13,Americas,5-10,Oct,Yes
+0596,121.54,15.61,5,Americas,3-5,Nov,No
+0597,114.7,16.37,9,Americas,10+,Aug,No
+0598,136.51,21.73,7,Middle East/Africa,5-10,Jul,NO
+0599,127.23,21.49,14,Asia/Pacific,3-5,Sep,Yes
+0600,122.3,16.86,10,Americas,3-5,Aug,No
+0601,137.61,21.29,7,Americas,5-10,May,No
+0602,115.8,24.36,8,Europe,0-1,Apr,No
+0603,106.7,15.57,14,Asia/Pacific,0-1,NA,No
+0604,122.6,16.86,5,Europe,3-5,Mar,Yes
+0605,131.77,21.23,14,Europe,1-3,Sep,Yes
+0606,122.74,17.01,5,Middle East/Africa,3-5,Mar,Yes
+0607,107.77,16.71,5,Middle East/Africa,0-1,Mar,No
+0608,129.95,13.6,13,Americas,5-10,NA,No
+0609,116.13,.,8,Americas,0-1,Apr,No
+0610,137.86,.,7,Middle East/Africa,5-10,May,NO
+0611,112.16,21.38,14,Europe,0-1,Sep,Yes
+0612,123.87,13.54,13,Europe,1-3,Oct,No
+0613,131.61,21.55,7,Europe,1-3,May,Yes
+0614,126.7,15.71,14,Americas,1-3,Feb,NO
+0615,141.25,25.28,8,Middle East/Africa,5-10,Apr,YES
+0616,115.52,24.65,8,Americas,0-1,NA,No
+0617,111.85,21.14,9,Americas,0-1,Jan,Yes
+0618,126.08,20.41,11,Asia/Pacific,3-5,Jun,Yes
+0619,106.75,15.86,14,Middle East/Africa,0-1,Feb,No
+0620,111.84,21.21,9,Americas,0-1,Jan,Yes
+0621,127.03,21.12,9,Americas,3-5,Jan,No
+0622,112.14,20.86,9,Americas,0-1,Jan,No
+0623,111.97,21.09,9,Asia/Pacific,0-1,Jan,No
+0624,123.12,24.55,8,Middle East/Africa,10+,Apr,Yes
+0625,110.76,19.52,7,Asia/Pacific,0-1,Jul,Yes
+0626,122.61,16.77,5,Middle East/Africa,3-5,Mar,No
+0627,118.51,20.09,11,Middle East/Africa,10+,Jun,Yes
+0628,106.96,16.1,9,Europe,0-1,Aug,Yes
+0629,111.91,19.92,12,Americas,0-1,Jun,No
+0630,141.02,24.41,8,Americas,5-10,Apr,No
+0631,121.32,15.33,5,Europe,3-5,Nov,No
+0632,110.7,19.95,11,Middle East/Africa,0-1,Jun,Yes
+0633,132.56,15.89,14,Americas,5-10,Feb,Yes
+0634,120.02,21.48,7,Americas,10+,May,No
+0635,111.96,21.06,9,Asia/Pacific,0-1,Jan,Yes
+0636,133.19,16.77,5,Asia/Pacific,5-10,NA,No
+0637,107.57,16.58,5,Middle East/Africa,0-1,NA,NO
+0638,112.35,21.53,7,Europe,0-1,May,Yes
+0639,107.3,16.13,9,Europe,0-1,Aug,No
+0640,112.39,21.67,13,Americas,0-1,Sep,Yes
+0641,115.13,16.38,5,Americas,10+,Nov,No
+0642,112.18,21.06,9,Americas,0-1,Jan,Yes
+0643,131.56,21.18,13,Asia/Pacific,1-3,Sep,Yes
+0644,137.77,20.35,11,Middle East/Africa,5-10,Jun,NO
+0645,111.83,21.28,9,Europe,0-1,Jan,Yes
+0646,112,21.06,13,Europe,0-1,NA,NO
+0647,126.16,15.5,5,Asia/Pacific,1-3,Nov,No
+0648,127.06,21.5,13,Americas,3-5,Sep,No
+0649,129.91,13.41,13,Americas,5-10,NA,No
+0650,126.19,17.15,9,Asia/Pacific,1-3,NA,No
+0651,122.13,17.74,9,Europe,3-5,Aug,No
+0652,130.33,25.6,8,Americas,3-5,Apr,No
+0653,131.72,21.6,8,Americas,1-3,May,No
+0654,126.25,20.3,11,Asia/Pacific,3-5,Jun,No
+0655,111.17,20.52,7,Americas,0-1,NA,No
+0656,116.66,24.61,8,Europe,0-1,Apr,No
+0657,127.15,16.66,5,Americas,1-3,Mar,Yes
+0658,107.76,16.86,5,Americas,0-1,Mar,Yes
+0659,130.92,.,7,Europe,3-5,Dec,YES
+0660,137.83,21.43,7,Europe,5-10,May,No
+0661,126.3,15.73,14,Middle East/Africa,1-3,Feb,Yes
+0662,131.54,21.36,7,Asia/Pacific,1-3,May,No
+0663,127.57,21.52,7,Asia/Pacific,3-5,May,Yes
+0664,112.3,21.6,7,Americas,0-1,May,No
+0665,125.98,.,8,Asia/Pacific,3-5,Jul,No
+0666,111.62,20.48,11,Middle East/Africa,0-1,Jun,No
+0667,126.05,20.37,12,Middle East/Africa,3-5,Jun,Yes
+0668,124.92,19.19,7,Asia/Pacific,3-5,Jul,Yes
+0669,112.17,21.22,9,Asia/Pacific,0-1,Jan,Yes
+0670,126.81,15.54,5,Europe,1-3,Nov,No
+0671,130.09,13.72,14,Middle East/Africa,5-10,Oct,Yes
+0672,131.71,21.38,7,Americas,1-3,May,No
+0673,112.45,21.44,7,Europe,0-1,May,Yes
+0674,123.85,13.72,13,Asia/Pacific,1-3,Oct,Yes
+0675,119.97,.,7,Europe,10+,May,No
+0676,123.5,24.66,8,Asia/Pacific,10+,Dec,Yes
+0677,115.76,24.89,8,Americas,0-1,Apr,No
+0678,106.89,15.69,14,Americas,0-1,Feb,Yes
+0679,130.68,20.2,11,Asia/Pacific,1-3,Jun,Yes
+0680,123.2,24.64,7,Europe,10+,Dec,No
+0681,132.18,15.52,6,Americas,5-10,Nov,No
+0682,126.83,17.79,9,Asia/Pacific,1-3,Aug,Yes
+0683,112.38,21.42,7,Asia/Pacific,0-1,May,Yes
+0684,132.32,15.67,5,Americas,5-10,Nov,Yes
+0685,114.4,15.76,6,Asia/Pacific,10+,Nov,No
+0686,111.73,21.2,8,Americas,0-1,Jan,Yes
+0687,112.27,21.14,9,Americas,0-1,Jan,Yes
+0688,141.33,25.74,8,Americas,5-10,Apr,YES
+0689,119.38,13.65,13,Europe,3-5,Oct,Yes
+0690,131.73,21.37,7,Americas,1-3,May,No
+0691,112.03,20.98,9,Americas,0-1,Jan,Yes
+0692,121.92,.,8,Americas,3-5,Aug,No
+0693,107.64,16.72,5,Middle East/Africa,0-1,Mar,No
+0694,137.63,21.44,14,Middle East/Africa,5-10,NA,No
+0695,107.66,.,5,Asia/Pacific,0-1,NA,Yes
+0696,131.07,21.33,9,Middle East/Africa,1-3,Jan,Yes
+0697,110.86,20.49,12,Americas,0-1,Jun,YES
+0698,129.89,13.51,13,Middle East/Africa,5-10,Oct,No
+0699,135.32,25.9,8,Americas,1-3,Apr,No
+0700,130.13,19.93,12,Asia/Pacific,1-3,Jun,No
+0701,126.1,15.83,14,Europe,1-3,Feb,Yes
+0702,131.57,.,7,Asia/Pacific,1-3,May,No
+0703,112.18,21.18,13,Americas,0-1,Sep,NO
+0704,112.22,21.02,9,Middle East/Africa,0-1,Jan,No
+0705,123.28,16.47,9,Europe,3-5,Aug,No
+0706,107.56,.,5,Americas,0-1,NA,YES
+0707,141,24.92,7,Middle East/Africa,5-10,Dec,No
+0708,125.7,20,12,Asia/Pacific,3-5,NA,NO
+0709,123.71,24.83,7,Middle East/Africa,10+,Dec,Yes
+0710,131.62,.,14,Europe,1-3,Sep,Yes
+0711,107.26,16.3,8,Americas,0-1,Aug,Yes
+0712,114.82,16.9,9,Americas,10+,Aug,No
+0713,126.13,.,11,Asia/Pacific,3-5,Jun,Yes
+0714,112.34,21.35,7,Europe,0-1,May,No
+0715,112.6,21.09,9,Europe,0-1,Jan,No
+0716,106.41,16.72,7,Europe,0-1,Nov,No
+0717,135.36,19.18,7,Middle East/Africa,5-10,Jul,Yes
+0718,112.1,21.32,14,Asia/Pacific,0-1,Sep,NO
+0719,136.55,20.29,11,Europe,5-10,Jun,Yes
+0720,119.16,13.71,13,Middle East/Africa,3-5,Oct,Yes
+0721,126.24,16.68,9,Europe,1-3,Aug,Yes
+0722,126.95,21.06,9,Europe,3-5,Jan,No
+0723,137.57,21.33,14,Middle East/Africa,5-10,Sep,Yes
+0724,132.68,16.88,9,Europe,5-10,Aug,No
+0725,130.33,19.3,7,Asia/Pacific,1-3,Jul,YES
+0726,131.77,15.58,6,Middle East/Africa,5-10,Nov,No
+0727,112.35,21.21,14,Europe,0-1,Sep,No
+0728,131.5,21.49,13,Asia/Pacific,1-3,Sep,No
+0729,141.82,25.04,8,Asia/Pacific,5-10,Dec,No
+0730,115.7,24.36,8,Asia/Pacific,0-1,Apr,No
+0731,130.3,24.37,9,Americas,3-5,Apr,No
+0732,130.25,24.7,8,Americas,3-5,Apr,Yes
+0733,111.13,20.38,12,Asia/Pacific,0-1,Jun,Yes
+0734,107.36,15.72,14,Middle East/Africa,0-1,Feb,No
+0735,114.2,15.25,5,Asia/Pacific,10+,NA,No
+0736,107.29,15.8,14,Europe,0-1,Feb,No
+0737,137.81,21.61,7,Middle East/Africa,5-10,May,Yes
+0738,127.03,21.4,9,Americas,3-5,Jan,Yes
+0739,120.1,21.07,14,Europe,10+,Sep,Yes
+0740,116.24,25.18,7,Americas,0-1,Dec,Yes
+0741,133.07,16.92,5,Europe,5-10,Mar,No
+0742,129.89,13.56,13,Asia/Pacific,5-10,Oct,No
+0743,125,19.06,7,Europe,3-5,Jul,No
+0744,112.01,13.42,13,Middle East/Africa,10+,Oct,Yes
+0745,127.09,21.53,7,Americas,3-5,May,Yes
+0746,107.57,16.89,5,Europe,0-1,Mar,Yes
+0747,127.39,21.18,13,Europe,3-5,Sep,Yes
+0748,119.41,13.69,14,Americas,3-5,Oct,Yes
+0749,125.73,15.89,5,Europe,1-3,Nov,NO
+0750,132.52,16.56,8,Asia/Pacific,5-10,Aug,Yes
+0751,130.35,.,11,Middle East/Africa,1-3,Jun,No
+0752,131.79,.,9,Middle East/Africa,1-3,Jan,Yes
+0753,107,15.89,14,Americas,0-1,Feb,Yes
+0754,111.69,21.03,9,Europe,0-1,Jan,No
+0755,127.02,.,5,Europe,1-3,Mar,Yes
+0756,137.2,21.91,11,Asia/Pacific,5-10,Jun,Yes
+0757,130.23,20.05,12,Middle East/Africa,1-3,Jun,No
+0758,141.15,24.79,7,Middle East/Africa,5-10,Dec,Yes
+0759,104.32,13.51,13,Americas,0-1,NA,No
+0760,112.24,21.37,14,Europe,0-1,Sep,No
+0761,129.12,18.93,8,Middle East/Africa,1-3,Jul,Yes
+0762,126.46,15.84,14,Europe,1-3,Feb,YES
+0763,137.62,21.39,14,Americas,5-10,Sep,No
+0764,114.46,15.56,14,Middle East/Africa,10+,Feb,No
+0765,141.18,25.27,8,Europe,5-10,NA,No
+0766,126.46,15.67,14,Americas,1-3,Feb,Yes
+0767,117.75,19.97,7,Middle East/Africa,10+,Jul,NO
+0768,127.03,16.95,5,Europe,1-3,Mar,Yes
+0769,110.61,19.61,7,Middle East/Africa,0-1,NA,Yes
+0770,121.86,16.29,9,Americas,3-5,Aug,No
+0771,110.5,19.11,7,Asia/Pacific,0-1,Jul,Yes
+0772,126.87,16.82,5,Asia/Pacific,1-3,Mar,Yes
+0773,134.7,25.29,8,Asia/Pacific,1-3,Apr,No
+0774,131.67,21.49,7,Americas,1-3,May,No
+0775,106.56,15.75,14,Middle East/Africa,0-1,Feb,No
+0776,132.24,16.76,9,Americas,5-10,Aug,No
+0777,111.92,.,9,Asia/Pacific,0-1,Jan,No
+0778,107.59,16.84,5,Middle East/Africa,0-1,Mar,Yes
+0779,129.36,20.08,7,Americas,1-3,NA,No
+0780,107.6,16.85,5,Asia/Pacific,0-1,Mar,Yes
+0781,112.07,.,9,Asia/Pacific,0-1,Jan,No
+0782,131.31,.,9,Asia/Pacific,1-3,Jan,Yes
+0783,137.8,21.53,7,Europe,5-10,May,Yes
+0784,106.82,15.87,14,Americas,0-1,Feb,Yes
+0785,112,21.16,9,Europe,0-1,Jan,Yes
+0786,123.85,13.52,13,Middle East/Africa,1-3,NA,YES
+0787,112.1,13.54,13,Asia/Pacific,10+,Oct,No
+0788,106.69,15.92,14,Americas,0-1,Feb,Yes
+0789,111.81,21.1,9,Europe,0-1,Jan,No
+0790,135.53,19.51,7,Middle East/Africa,5-10,Jul,No
+0791,109.73,19.29,7,Americas,0-1,Jul,Yes
+0792,121.13,15.59,5,Americas,3-5,Nov,No
+0793,134.86,24.44,8,Americas,1-3,Apr,No
+0794,119.45,13.62,13,Middle East/Africa,3-5,Oct,No
+0795,121.83,15.38,6,Middle East/Africa,3-5,NA,No
+0796,140.81,24.36,8,Europe,5-10,NA,No
+0797,131.16,21.07,9,Middle East/Africa,1-3,Jan,Yes
+0798,111.96,.,9,Asia/Pacific,0-1,Jan,NO
+0799,116.11,24.38,8,Asia/Pacific,0-1,Apr,No
+0800,127.23,21.51,7,Asia/Pacific,3-5,May,Yes
+0801,111.94,21.38,9,Americas,0-1,NA,Yes
+0802,111.27,20.13,11,Middle East/Africa,0-1,Jun,No
+0803,107.06,16.18,14,Americas,0-1,Feb,No
+0804,111.86,20.97,9,Europe,0-1,Jan,No
+0805,133.51,17.44,9,Europe,5-10,Aug,Yes
+0806,121.58,15.92,14,Europe,3-5,Feb,No
+0807,121.76,.,14,Middle East/Africa,3-5,Feb,Yes
+0808,111.82,21.06,9,Middle East/Africa,0-1,Jan,Yes
+0809,112,.,9,Europe,0-1,NA,Yes
+0810,135.96,20.93,8,Middle East/Africa,5-10,Jul,No
+0811,140.92,24.42,7,Asia/Pacific,5-10,Dec,Yes
+0812,121.45,15.94,14,Americas,3-5,Feb,Yes
+0813,141.74,25.7,7,Asia/Pacific,5-10,Dec,Yes
+0814,113.82,15.68,6,Americas,10+,Nov,No
+0815,138.07,.,7,Europe,5-10,Jul,No
+0816,130.17,13.32,13,Asia/Pacific,5-10,Oct,No
+0817,112.12,21.38,13,Americas,0-1,Sep,No
+0818,129.91,13.67,13,Asia/Pacific,5-10,Oct,Yes
+0819,112.31,21.48,7,Americas,0-1,May,Yes
+0820,131.64,21.45,7,Middle East/Africa,1-3,NA,Yes
+0821,114.52,15.95,9,Europe,10+,Aug,YES
+0822,129.71,19.54,8,Europe,1-3,Jul,Yes
+0823,132.77,16.49,9,Middle East/Africa,5-10,Aug,Yes
+0824,111.94,21.24,9,Europe,0-1,Jan,No
+0825,126.17,15.52,14,Middle East/Africa,1-3,Feb,Yes
+0826,123.7,13.35,13,Americas,1-3,Oct,No
+0827,129.28,19.06,7,Americas,1-3,Jul,No
+0828,126.32,20.53,11,Middle East/Africa,3-5,Jun,YES
+0829,125.19,19.12,8,Americas,3-5,Jul,Yes
+0830,137.79,20.97,14,Middle East/Africa,5-10,Sep,Yes
+0831,107.63,16.68,5,Americas,0-1,Mar,No
+0832,106.71,16.46,14,Americas,0-1,Feb,Yes
+0833,123.73,13.57,13,Asia/Pacific,1-3,Oct,Yes
+0834,109.71,19.22,7,Americas,0-1,Jul,No
+0835,114.86,20.93,8,Asia/Pacific,10+,Aug,NO
+0836,125.39,15.66,5,Americas,1-3,Nov,No
+0837,125.37,19.26,7,Middle East/Africa,3-5,NA,No
+0838,122.8,17.73,8,Asia/Pacific,3-5,Aug,No
+0839,119.44,13.58,13,Asia/Pacific,3-5,Oct,No
+0840,141.09,25.56,7,Middle East/Africa,5-10,NA,Yes
+0841,111.92,21.3,9,Asia/Pacific,0-1,Jan,No
+0842,127.34,21.16,8,Asia/Pacific,3-5,May,No
+0843,119.37,13.57,13,Europe,3-5,Oct,No
+0844,115.3,25.29,8,Europe,0-1,Apr,YES
+0845,119.99,21.19,14,Europe,10+,Sep,Yes
+0846,135.68,.,7,Europe,5-10,Jul,Yes
+0847,126.07,.,9,Asia/Pacific,1-3,Aug,Yes
+0848,112.45,21.43,7,Americas,0-1,May,No
+0849,125.61,15.5,14,Americas,1-3,Feb,Yes
+0850,112.26,21.31,7,Middle East/Africa,0-1,May,Yes
+0851,106.62,16.14,14,Middle East/Africa,0-1,Feb,Yes
+0852,123.84,13.62,13,Asia/Pacific,1-3,Oct,Yes
+0853,127.26,.,12,Middle East/Africa,3-5,Jun,Yes
+0854,130.57,.,8,Americas,3-5,Apr,Yes
+0855,126.9,16.71,5,Middle East/Africa,1-3,Mar,No
+0856,114.1,.,5,Middle East/Africa,10+,Nov,Yes
+0857,122.83,16.82,5,Asia/Pacific,3-5,NA,Yes
+0858,111.96,21.38,9,Europe,0-1,Jan,Yes
+0859,119.36,13.61,13,Middle East/Africa,3-5,Oct,No
+0860,111.93,21.26,9,Europe,0-1,Jan,No
+0861,131.51,21.09,9,Americas,1-3,Jan,No
+0862,131.38,.,9,Middle East/Africa,1-3,Jan,No
+0863,132.87,16.12,8,Europe,5-10,Aug,No
+0864,112.28,21.24,7,Middle East/Africa,0-1,May,Yes
+0865,111.89,21.07,9,Americas,0-1,Jan,No
+0866,123.23,25.08,7,Middle East/Africa,10+,Dec,Yes
+0867,132.02,15.08,6,Americas,5-10,Nov,No
+0868,127.23,16.69,5,Middle East/Africa,1-3,Mar,No
+0869,136.24,24.74,8,Europe,1-3,NA,No
+0870,126.93,16.87,5,Middle East/Africa,1-3,Mar,No
+0871,114.3,15.34,6,Europe,10+,Nov,Yes
+0872,136.16,19.14,8,Middle East/Africa,5-10,Jul,No
+0873,111.22,20.27,12,Middle East/Africa,0-1,Jun,Yes
+0874,115.45,16.83,5,Americas,10+,Mar,YES
+0875,141.11,24.84,8,Middle East/Africa,5-10,Dec,No
+0876,117.5,19.85,7,Asia/Pacific,10+,Jul,Yes
+0877,119.82,21.13,13,Americas,10+,Sep,No
+0878,129.98,13.68,13,Europe,5-10,Oct,No
+0879,110.69,19.77,12,Europe,0-1,Jun,YES
+0880,126.87,16.88,5,Middle East/Africa,1-3,Mar,Yes
+0881,121.62,.,5,Asia/Pacific,3-5,Nov,Yes
+0882,134.54,25.85,8,Asia/Pacific,1-3,Apr,No
+0883,130.2,.,7,Americas,1-3,Jul,No
+0884,107.71,16.95,5,Middle East/Africa,0-1,Mar,Yes
+0885,107.31,16.38,8,Middle East/Africa,0-1,Aug,NO
+0886,126.68,21.05,11,Middle East/Africa,3-5,Jun,Yes
+0887,137.72,21.5,7,Americas,5-10,NA,NO
+0888,119.29,20.13,11,Middle East/Africa,10+,Jun,No
+0889,112.26,21.14,9,Europe,0-1,Jan,No
+0890,112,.,9,Middle East/Africa,0-1,NA,No
+0891,125.04,19.59,7,Americas,3-5,Jul,YES
+0892,126.22,15.74,14,Europe,1-3,Feb,No
+0893,112.3,21.53,7,Americas,0-1,May,Yes
+0894,120.95,15.4,6,Asia/Pacific,3-5,Nov,NO
+0895,131.54,21.96,11,Americas,1-3,NA,Yes
+0896,111.34,20.62,12,Europe,0-1,Jun,Yes
+0897,135.73,19.5,7,Europe,5-10,Jul,No
+0898,123.51,25.76,7,Middle East/Africa,10+,Dec,Yes
+0899,124.04,13.66,13,Americas,1-3,Oct,No
+0900,129.6,19.26,7,Asia/Pacific,1-3,Jul,No
+0901,125.81,15.62,14,Middle East/Africa,1-3,NA,No
+0902,115.41,16.92,5,Asia/Pacific,10+,Mar,Yes
+0903,112.01,21.07,9,Americas,0-1,Jan,No
+0904,111.93,21.05,9,Europe,0-1,NA,Yes
+0905,119.65,.,14,Middle East/Africa,10+,Sep,No
+0906,125.42,19.45,7,Asia/Pacific,3-5,Jul,No
+0907,124.93,19.83,7,Asia/Pacific,3-5,Jul,Yes
+0908,126.87,21.14,13,Europe,3-5,Sep,No
+0909,126.08,20.51,11,Middle East/Africa,3-5,Jun,Yes
+0910,106.91,15.76,14,Middle East/Africa,0-1,Feb,No
+0911,106.61,15.56,14,Europe,0-1,Feb,Yes
+0912,131.83,15.29,6,Europe,5-10,Nov,Yes
+0913,121.96,16.38,9,Europe,3-5,NA,Yes
+0914,106.53,16.02,15,Americas,0-1,Feb,No
+0915,123.72,13.42,13,Asia/Pacific,1-3,Oct,No
+0916,121.7,15.78,10,Middle East/Africa,3-5,Aug,No
+0917,126.32,20.61,11,Americas,3-5,Jun,No
+0918,106.3,15.99,5,Europe,0-1,Nov,Yes
+0919,118.93,20.02,12,Asia/Pacific,10+,Jun,No
+0920,135.8,18.99,8,Americas,5-10,Jul,Yes
+0921,126.27,15.92,14,Europe,1-3,Feb,Yes
+0922,137.89,21.62,7,Asia/Pacific,5-10,May,Yes
+0923,130,13.65,13,Europe,5-10,Oct,Yes
+0924,112.16,21.56,13,Middle East/Africa,0-1,Sep,No
+0925,122.57,.,5,Americas,3-5,Mar,Yes
+0926,126.07,15.43,6,Europe,1-3,Nov,Yes
+0927,114.95,15.78,9,Americas,10+,Aug,Yes
+0928,132.08,16.7,6,Americas,5-10,Nov,No
+0929,131.62,21.38,14,Americas,1-3,Sep,Yes
+0930,111.15,19.62,7,Middle East/Africa,0-1,Jul,Yes
+0931,107.43,.,9,Middle East/Africa,0-1,Aug,Yes
+0932,120.03,21.1,14,Middle East/Africa,10+,Sep,Yes
+0933,126.29,16.19,9,Asia/Pacific,1-3,Aug,No
+0934,125.4,19.8,7,Americas,3-5,Jul,Yes
+0935,131.28,25.37,7,Middle East/Africa,3-5,Dec,Yes
+0936,104.29,13.53,13,Middle East/Africa,0-1,Oct,Yes
+0937,112.25,13.42,13,Middle East/Africa,10+,NA,No
+0938,129.82,19.49,8,Asia/Pacific,1-3,Jul,Yes
+0939,110.82,19.84,11,Americas,0-1,Jun,Yes
+0940,107.53,16.87,5,Americas,0-1,NA,Yes
+0941,107.16,17.06,8,Middle East/Africa,0-1,Aug,Yes
+0942,136.07,19.2,7,Europe,5-10,NA,Yes
+0943,119.32,.,13,Middle East/Africa,3-5,Oct,No
+0944,131.53,21.68,7,Europe,1-3,May,Yes
+0945,111.99,.,9,Middle East/Africa,0-1,Jan,No
+0946,119.42,13.61,13,Asia/Pacific,3-5,Oct,NO
+0947,125.05,19.31,7,Asia/Pacific,3-5,NA,No
+0948,104.5,.,13,Europe,0-1,Oct,No
+0949,126.38,20.13,11,Asia/Pacific,3-5,Jun,Yes
+0950,129.96,13.59,13,Asia/Pacific,5-10,Oct,No
+0951,113.95,15.69,6,Europe,10+,Nov,Yes
+0952,106.54,15.88,9,Middle East/Africa,0-1,Aug,No
+0953,111.82,21.13,9,Asia/Pacific,0-1,Jan,Yes
+0954,129.93,13.71,13,Middle East/Africa,5-10,Oct,Yes
+0955,141.12,25.06,7,Europe,5-10,Dec,No
+0956,112.12,21.33,14,Asia/Pacific,0-1,Sep,No
+0957,137.47,24.24,8,Asia/Pacific,1-3,Apr,Yes
+0958,112.15,21.27,9,Asia/Pacific,0-1,Jan,No
+0959,111.88,20.99,9,Middle East/Africa,0-1,Jan,Yes
+0960,136.79,21.04,11,Asia/Pacific,5-10,NA,Yes
+0961,133.26,16.75,5,Asia/Pacific,5-10,Mar,No
+0962,123.86,13.66,14,Europe,1-3,Oct,No
+0963,132.47,16.2,14,Americas,5-10,Feb,NO
+0964,123.78,24.8,7,Europe,10+,Dec,No
+0965,131.52,21.35,13,Asia/Pacific,1-3,NA,Yes
+0966,133.14,16.71,5,Europe,5-10,Mar,No
+0967,140.49,24.7,9,Americas,5-10,Apr,Yes
+0968,122.2,.,14,Europe,3-5,Feb,Yes
+0969,112.21,21.2,9,Europe,0-1,Jan,No
+0970,106.91,15.8,14,Europe,0-1,Feb,No
+0971,141.26,24.86,9,Americas,5-10,Apr,No
+0972,119.42,13.65,13,Americas,3-5,Oct,No
+0973,141.92,24.45,8,Asia/Pacific,5-10,Apr,NO
+0974,114.69,15.79,6,Americas,10+,Nov,No
+0975,142.29,24.77,7,Europe,5-10,NA,Yes
+0976,121.82,.,8,Asia/Pacific,3-5,Aug,No
+0977,124.71,19.83,7,Europe,3-5,NA,YES
+0978,106.91,16.04,14,Asia/Pacific,0-1,Feb,No
+0979,133.02,16.79,5,Europe,5-10,Mar,Yes
+0980,127.4,21.38,13,Middle East/Africa,3-5,Sep,YES
+0981,127.26,21.36,7,Middle East/Africa,3-5,May,No
+0982,121.54,16.55,9,Middle East/Africa,3-5,Aug,Yes
+0983,130.55,25.04,8,Middle East/Africa,3-5,Apr,No
+0984,121.5,15.5,6,Asia/Pacific,3-5,Nov,Yes
+0985,123.77,13.83,13,Americas,1-3,Oct,Yes
+0986,125.84,15.88,14,Americas,1-3,Feb,Yes
+0987,132.16,15.29,6,Middle East/Africa,5-10,Nov,Yes
+0988,111.78,20.86,9,Americas,0-1,Jan,Yes
+0989,131.65,21.39,7,Middle East/Africa,1-3,May,Yes
+0990,119.82,21.56,14,Asia/Pacific,10+,Sep,No
+0991,107.55,.,5,Americas,0-1,Mar,Yes
+0992,131.64,21.46,7,Americas,1-3,May,No
+0993,107.89,16.78,5,Middle East/Africa,0-1,Mar,No
+0994,110.5,19.89,7,Americas,0-1,Jul,No
+0995,107.02,15.73,14,Middle East/Africa,0-1,Feb,Yes
+0996,112.21,13.42,13,Asia/Pacific,10+,Oct,No
+0997,126.82,.,9,Americas,3-5,Jan,Yes
+0998,126.22,16.08,9,Middle East/Africa,1-3,Aug,No
+0999,129.89,13.64,13,Americas,5-10,Oct,No
+1000,132.38,16.65,9,Europe,5-10,Aug,No
+1001,130.47,20.75,11,Americas,1-3,NA,Yes
+1002,106.88,16.02,14,Europe,0-1,NA,No
+1003,131.28,21.18,9,Asia/Pacific,1-3,Jan,No
+1004,115.64,.,8,Europe,0-1,Apr,No
+1005,119.88,21.42,13,Asia/Pacific,10+,Sep,Yes
+1006,106.54,.,14,Asia/Pacific,0-1,Feb,YES
+1007,112,21.27,9,Americas,0-1,Jan,Yes
+1008,119.54,13.69,13,Asia/Pacific,3-5,Oct,Yes
+1009,112.16,.,9,Europe,0-1,Jan,Yes
+1010,131.55,21.14,9,Americas,1-3,Jan,Yes
+1011,106.9,15.81,14,Middle East/Africa,0-1,Feb,Yes
+1012,107.66,16.69,5,Americas,0-1,Mar,No
+1013,110.25,19.2,8,Middle East/Africa,0-1,Jul,Yes
+1014,113.96,15.7,6,Americas,10+,Nov,Yes
+1015,122.05,15.92,14,Europe,3-5,Feb,No
+1016,125.56,19.09,7,Asia/Pacific,3-5,Jul,Yes
+1017,107.61,16.69,5,Middle East/Africa,0-1,Mar,No
+1018,112.13,21.14,9,Middle East/Africa,0-1,Jan,No
+1019,121.57,16.4,14,Asia/Pacific,3-5,Feb,Yes
+1020,122.77,16.63,5,Middle East/Africa,3-5,Mar,No
+1021,125.81,15.28,6,Middle East/Africa,1-3,Nov,No
+1022,125.58,19.25,9,Asia/Pacific,3-5,NA,Yes
+1023,112.19,21.14,8,Europe,0-1,Jan,Yes
+1024,122.48,16.69,6,Europe,3-5,Mar,Yes
+1025,106.79,15.55,14,Asia/Pacific,0-1,Feb,No
+1026,137.69,21.55,7,Asia/Pacific,5-10,NA,No
+1027,112.31,13.61,14,Asia/Pacific,10+,Oct,Yes
+1028,127.31,21.39,7,Asia/Pacific,3-5,May,No
+1029,126.12,20.47,12,Europe,3-5,Jun,NO
+1030,115.29,24.81,8,Americas,0-1,Apr,YES
+1031,127.32,21.46,7,Europe,3-5,May,No
+1032,131.96,15.63,14,Americas,5-10,Feb,No
+1033,140.77,25.17,7,Middle East/Africa,5-10,Dec,No
+1034,108.72,16.33,9,Europe,0-1,Aug,Yes
+1035,112.13,20.94,9,Europe,0-1,Jan,Yes
+1036,131.77,21.32,7,Asia/Pacific,1-3,May,Yes
+1037,129.39,19.2,7,Middle East/Africa,1-3,Jul,No
+1038,131.17,21.19,9,Asia/Pacific,1-3,Jan,Yes
+1039,137.68,21.45,7,Americas,5-10,May,Yes
+1040,126.8,.,5,Europe,1-3,Mar,No
+1041,110.22,19.69,8,Europe,0-1,Jul,No
+1042,107.75,16.87,5,Americas,0-1,Mar,Yes
+1043,112.35,21.09,9,Americas,0-1,Jan,NO
+1044,132.52,15.58,14,Americas,5-10,Feb,Yes
+1045,110.06,19.76,8,Middle East/Africa,0-1,Jul,Yes
+1046,131.35,20.89,9,Asia/Pacific,1-3,Jan,No
+1047,126.56,16.52,9,Americas,1-3,Aug,No
+1048,106.61,16.36,14,Europe,0-1,Feb,No
+1049,129.32,19.13,7,Americas,1-3,Jul,Yes
+1050,112.37,21.16,13,Europe,0-1,Sep,No
+1051,130.25,24.78,8,Middle East/Africa,3-5,Apr,Yes
+1052,121.82,16.4,8,Middle East/Africa,3-5,Aug,Yes
+1053,119.24,13.57,13,Asia/Pacific,3-5,Oct,Yes
+1054,126.69,20.01,11,Americas,3-5,Jun,No
+1055,129.82,20.29,7,Middle East/Africa,1-3,Jul,Yes
+1056,122.65,16.46,9,Americas,3-5,Aug,Yes
+1057,107.47,16.75,9,Asia/Pacific,0-1,Aug,Yes
+1058,106.88,16.37,9,Asia/Pacific,0-1,Aug,Yes
+1059,131.5,21.4,7,Europe,1-3,May,No
+1060,111.9,21.1,9,Americas,0-1,Jan,Yes
+1061,131.89,21.13,14,Middle East/Africa,1-3,Sep,No
+1062,131.41,21.03,9,Americas,1-3,Jan,No
+1063,126.43,15.86,14,Middle East/Africa,1-3,Feb,No
+1064,107.73,16.86,5,Middle East/Africa,0-1,Mar,Yes
+1065,141.06,25.04,7,Asia/Pacific,5-10,NA,No
+1066,106.63,15.62,14,Europe,0-1,NA,Yes
+1067,129.96,.,13,Middle East/Africa,5-10,NA,No
+1068,131.22,21.12,9,Asia/Pacific,1-3,Jan,Yes
+1069,117.43,19.6,7,Americas,10+,Jul,No
+1070,106.65,16.19,14,Europe,0-1,Feb,Yes
+1071,134.92,25.11,8,Europe,1-3,Apr,No
+1072,106.7,15.82,14,Americas,0-1,Feb,Yes
+1073,126.91,17.28,9,Europe,1-3,Aug,No
+1074,115.33,24.74,8,Europe,0-1,Apr,Yes
+1075,121.67,16.11,14,Americas,3-5,NA,Yes
+1076,122.49,.,8,Middle East/Africa,3-5,Aug,No
+1077,129.75,13.58,13,Europe,5-10,Oct,Yes
+1078,119.93,21.3,7,Middle East/Africa,10+,May,YES
+1079,110.03,19.06,7,Americas,0-1,Jul,No
+1080,127.48,21.44,7,Americas,3-5,May,No
+1081,119.35,13.51,13,Middle East/Africa,3-5,Oct,No
+1082,132.05,16.16,14,Middle East/Africa,5-10,Feb,YES
+1083,112.03,21.17,9,Asia/Pacific,0-1,Jan,No
+1084,135.6,19.37,7,Europe,5-10,Jul,No
+1085,121.08,15.93,5,Middle East/Africa,3-5,Nov,Yes
+1086,106.8,15.96,14,Europe,0-1,Feb,Yes
+1087,135.85,.,7,Asia/Pacific,5-10,Jul,Yes
+1088,127.23,21.21,7,Americas,3-5,May,Yes
+1089,130.14,13.45,14,Middle East/Africa,5-10,Oct,No
+1090,127.07,16.81,5,Asia/Pacific,1-3,Mar,No
+1091,129.79,13.78,13,Europe,5-10,Oct,Yes
+1092,126.34,16.02,14,Middle East/Africa,1-3,Feb,No
+1093,107.8,16.93,5,Asia/Pacific,0-1,Mar,Yes
+1094,131.31,21.23,9,Americas,1-3,NA,No
+1095,130.99,24.9,8,Europe,3-5,Dec,No
+1096,106.6,15.54,14,Europe,0-1,Feb,No
+1097,130.05,20,11,Europe,1-3,NA,YES
+1098,127.33,21.31,7,Europe,3-5,May,No
+1099,137.99,21.34,7,Asia/Pacific,5-10,May,No
+1100,106.86,16.08,9,Middle East/Africa,0-1,Aug,No
+1101,112.11,.,7,Europe,0-1,May,Yes
+1102,137.74,21.4,14,Middle East/Africa,5-10,Sep,No
+1103,121.78,17.05,9,Asia/Pacific,3-5,Aug,Yes
+1104,121.69,.,9,Asia/Pacific,3-5,Aug,No
+1105,123.46,24.66,7,Americas,10+,NA,Yes
+1106,122.98,16.82,9,Americas,3-5,Aug,Yes
+1107,111.92,20.99,9,Europe,0-1,Jan,No
+1108,135.46,19.09,7,Americas,5-10,Jul,Yes
+1109,119.97,21.15,14,Europe,10+,Sep,No
+1110,107.78,16.95,6,Americas,0-1,Mar,Yes
+1111,106.62,15.86,14,Asia/Pacific,0-1,NA,Yes
+1112,112.24,21.29,7,Middle East/Africa,0-1,May,Yes
+1113,132.5,16.38,9,Americas,5-10,Aug,Yes
+1114,112.04,13.65,13,Middle East/Africa,10+,Oct,Yes
+1115,130.32,20,8,Europe,1-3,Jul,No
+1116,112.26,21.61,7,Asia/Pacific,0-1,May,Yes
+1117,106.51,15.61,14,Europe,0-1,Feb,NO
+1118,106.66,15.85,14,Europe,0-1,Feb,Yes
+1119,106.65,16.12,14,Europe,0-1,Feb,Yes
+1120,132.54,16.7,9,Middle East/Africa,5-10,NA,Yes
+1121,113.77,15.38,6,Europe,10+,Nov,Yes
+1122,107.64,17,5,Middle East/Africa,0-1,Mar,NO
+1123,121.98,15.33,6,Middle East/Africa,3-5,Nov,Yes
+1124,112.03,.,9,Asia/Pacific,0-1,Jan,No
+1125,127.05,16.77,5,Americas,1-3,Mar,No
+1126,127.27,21.53,7,Europe,3-5,May,YES
+1127,112.04,21.06,9,Europe,0-1,NA,Yes
+1128,137.86,.,14,Europe,5-10,Sep,No
+1129,137.71,21.28,7,Americas,5-10,May,Yes
+1130,115.63,.,8,Americas,0-1,Apr,No
+1131,119.37,13.58,13,Middle East/Africa,3-5,Oct,No
+1132,126.09,16.05,15,Middle East/Africa,1-3,Feb,Yes
+1133,131.98,.,13,Middle East/Africa,1-3,Sep,YES
+1134,111.95,21.1,9,Asia/Pacific,0-1,Jan,NO
+1135,122.42,.,9,Middle East/Africa,3-5,Aug,YES
+1136,127.26,21.15,14,Europe,3-5,Sep,No
+1137,119.57,13.39,13,Americas,3-5,Oct,YES
+1138,126.42,20.18,12,Asia/Pacific,3-5,Jun,Yes
+1139,127.35,21.24,13,Asia/Pacific,3-5,Sep,NO
+1140,112.32,21.67,14,Americas,0-1,Sep,Yes
+1141,122.04,18.28,9,Middle East/Africa,3-5,Aug,Yes
+1142,112.19,13.56,13,Europe,10+,Oct,No
+1143,117.74,20.8,7,Asia/Pacific,10+,Jul,No
+1144,115.11,24.91,9,Americas,0-1,Apr,No
+1145,127.37,21.41,7,Europe,3-5,May,Yes
+1146,130.54,24.27,8,Middle East/Africa,3-5,Apr,Yes
+1147,109.15,16.16,10,Europe,0-1,Aug,No
+1148,126.37,20.11,11,Europe,3-5,Jun,YES
+1149,133.04,16.12,6,Europe,5-10,Nov,Yes
+1150,107.63,16.65,5,Americas,0-1,Mar,Yes
+1151,137.71,21.27,14,Asia/Pacific,5-10,Sep,Yes
+1152,106.65,16.96,8,Americas,0-1,NA,No
+1153,129.89,13.39,14,Americas,5-10,Oct,NO
+1154,122.11,16,10,Middle East/Africa,3-5,Aug,Yes
+1155,122.89,.,9,Europe,3-5,Aug,Yes
+1156,130.6,20.32,11,Asia/Pacific,1-3,Jun,No
+1157,119.1,20.06,12,Asia/Pacific,10+,Jun,NO
+1158,131.56,21.06,13,Europe,1-3,Sep,NO
+1159,131.31,21.1,9,Middle East/Africa,1-3,Jan,No
+1160,132.25,15.56,14,Europe,5-10,NA,NO
+1161,132.14,16.21,14,Asia/Pacific,5-10,NA,Yes
+1162,112.24,13.66,13,Europe,10+,Oct,Yes
+1163,121.49,15.85,14,Americas,3-5,Feb,No
+1164,141.05,25.25,7,Europe,5-10,Dec,Yes
+1165,133.37,16.59,5,Asia/Pacific,5-10,Mar,YES
+1166,132.35,16.02,14,Europe,5-10,Feb,No
+1167,115.69,24.18,8,Asia/Pacific,0-1,Apr,No
+1168,131.66,21.42,7,Asia/Pacific,1-3,May,Yes
+1169,135.89,18.97,8,Asia/Pacific,5-10,Jul,No
+1170,136.35,.,9,Middle East/Africa,5-10,Jul,No
+1171,115.29,16.74,5,Asia/Pacific,10+,Mar,YES
+1172,137.58,21.26,14,Americas,5-10,NA,Yes
+1173,126.95,21.16,9,Europe,3-5,Jan,Yes
+1174,106.57,15.97,14,Asia/Pacific,0-1,Feb,Yes
+1175,115.27,.,8,Europe,0-1,Apr,No
+1176,121.89,16.51,9,Middle East/Africa,3-5,Aug,No
+1177,133.14,16.88,5,Middle East/Africa,5-10,Mar,No
+1178,106.92,15.76,14,Europe,0-1,Feb,No
+1179,131.64,16.04,6,Asia/Pacific,5-10,Nov,Yes
+1180,107.7,16.8,5,Americas,0-1,Mar,Yes
+1181,125.06,19.33,8,Europe,3-5,Jul,Yes
+1182,131.25,21.07,9,Middle East/Africa,1-3,Jan,Yes
+1183,121.76,15.41,5,Asia/Pacific,3-5,Nov,No
+1184,125.86,16.06,14,Middle East/Africa,1-3,Feb,No
+1185,133.12,16.84,5,Europe,5-10,Mar,No
+1186,127.17,21.47,13,Europe,3-5,Sep,Yes
+1187,115.45,24.95,9,Asia/Pacific,0-1,Apr,No
+1188,107.6,16.71,5,Europe,0-1,Mar,Yes
+1189,111.95,13.49,13,Middle East/Africa,10+,Oct,Yes
+1190,111.91,13.56,13,Europe,10+,Oct,No
+1191,111.92,21.16,9,Americas,0-1,Jan,No
+1192,129.92,.,13,Middle East/Africa,5-10,Oct,No
+1193,126.19,20.42,11,Middle East/Africa,3-5,Jun,Yes
+1194,112.11,21.08,9,Asia/Pacific,0-1,Jan,YES
+1195,106.58,15.86,14,Europe,0-1,Feb,Yes
+1196,137.83,21.35,14,Asia/Pacific,5-10,Sep,No
+1197,112.11,.,8,Asia/Pacific,0-1,Jan,No
+1198,121.64,15.81,7,Europe,3-5,Nov,Yes
+1199,123.36,25.14,9,Asia/Pacific,10+,Apr,Yes
+1200,131.45,21.09,9,Asia/Pacific,1-3,Jan,NO
+1201,116.54,24.67,8,Europe,0-1,Apr,Yes
+1202,132.45,16.21,14,Americas,5-10,Feb,Yes
+1203,119.71,21.16,13,Middle East/Africa,10+,Sep,Yes
+1204,107.84,.,5,Americas,0-1,Mar,YES
+1205,132.34,.,6,Middle East/Africa,5-10,Nov,No
+1206,127.65,16.62,9,Americas,1-3,NA,Yes
+1207,130.26,20.14,11,Americas,1-3,NA,No
+1208,127.53,21.3,7,Americas,3-5,May,Yes
+1209,131.41,21.26,9,Asia/Pacific,1-3,Jan,Yes
+1210,119.94,21.48,7,Europe,10+,May,No
+1211,138.06,21.18,13,Europe,5-10,Sep,No
+1212,131.27,19.98,11,Europe,1-3,Jun,YES
+1213,129.78,13.52,13,Middle East/Africa,5-10,Oct,No
+1214,114.24,15.36,6,Middle East/Africa,10+,NA,No
+1215,108.03,16.1,8,Asia/Pacific,0-1,Aug,No
+1216,123.69,24.81,7,Middle East/Africa,10+,Dec,Yes
+1217,131.82,21.37,14,Europe,1-3,Sep,Yes
+1218,132.24,19.18,10,Americas,5-10,Aug,Yes
+1219,111.97,21.12,9,Europe,0-1,Jan,Yes
+1220,107.67,16.84,5,Americas,0-1,Mar,No
+1221,121.78,16.21,9,Middle East/Africa,3-5,Aug,No
+1222,106.77,15.89,14,Middle East/Africa,0-1,Feb,Yes
+1223,132.99,16.73,9,Middle East/Africa,5-10,Aug,No
+1224,125.37,20.22,8,Europe,3-5,Jul,Yes
+1225,116.21,26.16,8,Middle East/Africa,0-1,Apr,Yes
+1226,112.06,21.19,9,Middle East/Africa,0-1,Jan,No
+1227,129.91,13.61,13,Europe,5-10,Oct,No
+1228,111.91,21.23,9,Europe,0-1,Jan,No
+1229,116.47,.,8,Middle East/Africa,0-1,Apr,Yes
+1230,131.17,.,9,Middle East/Africa,1-3,Jan,Yes
+1231,129.8,13.58,13,Europe,5-10,Oct,No
+1232,134.05,18,9,Europe,5-10,Aug,Yes
+1233,115.29,24.93,8,Middle East/Africa,0-1,Apr,Yes
+1234,125.5,19.14,8,Asia/Pacific,3-5,Jul,Yes
+1235,123.01,25.26,8,Americas,10+,Apr,No
+1236,121.06,15.06,6,Asia/Pacific,3-5,Nov,No
+1237,130.56,26.18,7,Europe,3-5,Dec,No
+1238,112.09,20.96,9,Americas,0-1,Jan,No
+1239,112.12,13.51,13,Europe,10+,Oct,Yes
+1240,130.01,24.97,9,Americas,3-5,Apr,Yes
+1241,131.14,.,9,Europe,1-3,Jan,No
+1242,126.01,15.97,14,Americas,1-3,NA,Yes
+1243,111.85,21.22,9,Asia/Pacific,0-1,Jan,No
+1244,132.51,16.23,9,Middle East/Africa,5-10,Aug,No
+1245,131.57,21.21,9,Americas,1-3,NA,No
+1246,135.85,18.99,7,Middle East/Africa,5-10,NA,No
