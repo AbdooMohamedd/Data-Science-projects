@@ -32,25 +32,23 @@ The data used in this project is a modified version of the original dataset publ
 ## Getting Started
 
 1. Clone the repository:
+
    ```bash
    git clone https://github.com/AbdooMohamedd/Data-Science-projects.git
    ```
 
-````
-
 2. Navigate to the project directory:
+
    ```bash
    cd 4-%20Analyzing%20Crime%20in%20Los%20Angeles
    ```
 
-````
-
 3. Install the required libraries:
+
    ```bash
    pip install pandas matplotlib seaborn
    ```
 
-```
 4. Explore the data and analysis notebooks to gain insights.
 
 ## Contributing
@@ -60,4 +58,7 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 ## License
 
 All licenses in this project are under the MIT License.
+
+```
+
 ```
